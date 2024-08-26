@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: HAIHA'S BLOG
 
 theme:
   name: material
@@ -6,3 +6,23 @@ theme:
 plugins:
   - tags:
       tags_file: tags.md 
+
+palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: fontawesome/solid/sun  # Thay đổi thành biểu tượng mặt trời
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: fontawesome/solid/moon  # Biểu tượng mặt trăng cho chế độ dark mode
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
+        name: Switch to light mode
