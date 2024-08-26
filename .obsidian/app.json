@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "docs/Vlogs"
+  "newFileFolderPath": "docs/Vlogs",
+  "showUnsupportedFiles": true
 }
