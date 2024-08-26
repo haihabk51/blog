@@ -2,12 +2,7 @@ site_name: HAIHA'S BLOG
 
 theme:
   name: material
-
-plugins:
-  - tags:
-      tags_file: tags.md 
-
-palette:
+  palette:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: fontawesome/solid/sun  # Thay đổi thành biểu tượng mặt trời
@@ -26,3 +21,8 @@ palette:
       toggle:
         icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
         name: Switch to light mode
+
+plugins:
+  - tags:
+      tags_file: tags.md 
+
