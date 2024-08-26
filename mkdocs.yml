@@ -1,8 +1,100 @@
-site_name: My Docs
+site_name: HAIHA'S BLOG
+site_description: HAIHA'S ADVENTURE
+site_url: 
+site_author: haiha
 
 theme:
   name: material
+  custom_dir: overrides
+  icon:
+    logo: fontawesome/solid/brain
+    # favicon: assets/meta/brain-solid.png
+  font:
+    text: Plus Jakarta Sans
+    code: Roboto Mono
+  language: en
+    
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: fontawesome/solid/sun  # Thay đổi thành biểu tượng mặt trời
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: fontawesome/solid/moon  # Biểu tượng mặt trăng cho chế độ dark mode
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
+        name: Switch to light mode
+
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+
+copyright: Copyright &copy; 2024 NGUYENHAIHA
 
 plugins:
-  - tags:
-      tags_file: tags.md 
+  - search
+  # - roamlinks
+  - autolinks
+  - callouts
+  # - meta:
+  #     meta_file: .meta.yml
+  - blogging:
+      dirs:
+        - post
+      template: overrides/custom-blog.html
+      features:
+        tags:
+          index_page: tags.md
+          insert: bottom
+      time_format: ' %d-%m-%Y '
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@nguyenhaihabk
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/hahtd3
+    - icon: fontawesome/solid/bookmark
+      link: https://substack.com/@nguyenhaiha
+    - icon: fontawesome/solid/globe
+      link: https://www.khoahocobsidian.com/
