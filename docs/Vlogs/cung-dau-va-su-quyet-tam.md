@@ -1,0 +1,1 @@
+[[cứng đầu]] khác gì sự [[quyết tâm]]
