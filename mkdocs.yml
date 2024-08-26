@@ -37,5 +37,6 @@ features:
   - search.suggest
   - search.highlight
   - navigation.footer
+  - content.tabs.link
 
 copyright: Copyright &copy; 2024 haihanguyen
