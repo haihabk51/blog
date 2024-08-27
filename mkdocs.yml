@@ -34,7 +34,6 @@ plugins:
   - blogging:
       dirs:
         - post
-     
       features:
         tags:
           index_page: tags.md
