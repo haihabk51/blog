@@ -11,8 +11,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
-      accent: purple
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: fontawesome/solid/moon
         name: Switch to dark mode
