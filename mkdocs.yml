@@ -6,8 +6,8 @@ theme:
     logo: fontawesome/solid/brain
     # favicon: assets/meta/brain-solid.png
   font:
-    text: "Sans-serif"
-    code: "Sans-serif"
+    text: Plus Jakarta Sans
+    code: Roboto Mono
   language: en
   palette:
     - media: "(prefers-color-scheme)"
@@ -30,11 +30,16 @@ theme:
         name: Switch to light mode
 
 plugins:
-
+  - search
+  # - roamlinks
+  - autolinks
+  - callouts
+  # - meta:
+  #     meta_file: .meta.yml
   - blogging:
       dirs:
         - post
-     
+      template: overrides/custom-blog.html
       features:
         tags:
           index_page: tags.md
