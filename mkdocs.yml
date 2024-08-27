@@ -30,7 +30,6 @@ theme:
         name: Switch to light mode
 
 plugins:
-
   - blogging:
       dirs:
         - post
