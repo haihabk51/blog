@@ -3,7 +3,7 @@ title: Bạn đắt giá bao nhiêu
 ---
 
 ## Sự thỏa hiệp có làm bạn hạnh phúc
-trong chúng ta, có rất nhiều người cố gắng cả đời cũng không thể tìm thấy tình yêu chân thành, bởi vì chúng ta đã ==thỏa hiệp== với cuộc sống trước khi tình yêu ấy xuất hiện.
+Trong chúng ta, có rất nhiều người cố gắng cả đời cũng không thể tìm thấy tình yêu chân thành, bởi vì chúng ta đã ==thỏa hiệp== với cuộc sống trước khi tình yêu ấy xuất hiện.
 
 Bạn có đủ dũng khí ngăn cản mọi ==nghi hoặc== và ==cám dỗ==, chỉ để theo đuổi giấc mộng của chính mình ? Bạn ==thỏa thiệp== bao nhiêu thì sẽ ==đánh mất== bấy nhiêu, cuối cùng trái tim bạn chỉ còn lại oán hận và tiếc nuối.
 ## Không cần trở thành một cô gái được tất cả mọi người yêu quý

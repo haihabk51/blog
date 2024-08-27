@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/obsidian-plugins.md",
+                "file": "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/obsidian-plugins.md",
+                "file": "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/obsidian-plugins.md",
+                "file": "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/obsidian-plugins.md"
+                "file": "docs/post/tien-luong-la-mot-chiec-gong em-ai.md"
               }
             }
           },
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +161,18 @@
   },
   "active": "4cc8ee686802a40e",
   "lastOpenFiles": [
+    "docs/post/qui-tac-90-90-1.md",
     "docs/post/ban-dat-gia-bao-nhieu.md",
-    "docs/Obsidian/obsidian-plugins.md",
-    "template/temp.md",
-    "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
-    "docs/post/excel- translate.md",
-    "docs/post/do-luong-viec-hoc.md",
-    "docs/post/hoc-hanh-it-thu-doan-nhieu.md",
-    "docs/post/hoc-mot-cai-moi.md",
     "docs/post/Hom-nay-bạn-nghi-gi.md",
     "docs/post/Neu-de-viet-gi-cho-ngay-hom-nay.md",
-    "docs/post/qui-tac-90-90-1.md",
+    "docs/post/excel- translate.md",
+    "docs/post/do-luong-viec-hoc.md",
+    "docs/post/cung-dau-va-su-quyet-tam.md",
+    "template/temp.md",
+    "docs/Obsidian/obsidian-plugins.md",
+    "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
+    "docs/post/hoc-hanh-it-thu-doan-nhieu.md",
+    "docs/post/hoc-mot-cai-moi.md",
     "docs/post/qyet-tam.md",
     "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
@@ -196,7 +196,6 @@
     "docs/post/Trường Làng vẫn ra thế giới.md",
     "docs/post/Trang web để lấy icon.md",
     "docs/post/Tiền lương là một chiếc gông êm ái.md",
-    "docs/post/Qui tắc 90 90 1.md",
-    "docs/post/Nếu để viết gì cho ngày hôm nay..md"
+    "docs/post/Qui tắc 90 90 1.md"
   ]
 }

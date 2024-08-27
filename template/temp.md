@@ -1,6 +1,6 @@
 ---
-filename: 
-aliases:
-tags:
-date: 
+title: 
+aliases: 
+tags: 
+date:
 ---

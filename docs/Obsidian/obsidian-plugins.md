@@ -1,8 +1,7 @@
 ---
-filename: obsidian-plugins
+title: obsidian-plugins
 aliases:
   - Obsidian plugins
-
 share: true
 comments: true
 tags:

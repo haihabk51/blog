@@ -5,6 +5,7 @@ tags:
 aliases: 
 cssclasses: 
 DATE: 2024-08-27
+title: Dịch Thuật trong Excel
 ---
 
  [Tham khảo nguồn link gốc](https://www.exceldemy.com/excel-vba-translate-formulalanguage/)

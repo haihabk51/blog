@@ -1,3 +1,9 @@
+---
+title: Cuộc đời nói chuyện bằng kết quả
+aliases: 
+tags: 
+date:
+---
 
 
 ![](https://i.imgur.com/62N7abj.png)
