@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "72455766f3de5bac",
+        "id": "eaf02fa3b5fdf8d9",
         "type": "tabs",
         "children": [
           {
-            "id": "710bfb05f6970101",
+            "id": "32c7aa38654d6d61",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc"
+                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc",
+                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc",
+                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc"
+                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md"
               }
             }
           },
@@ -171,15 +173,14 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "710bfb05f6970101",
+  "active": "32c7aa38654d6d61",
   "lastOpenFiles": [
-    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
-    "docs/post/pass  haihabk.mdenc",
-    "docs/post/Git.md",
     "docs/post/vidu.mdenc",
-    "docs/post/Untitled 20240828 050741.md",
-    "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+    "docs/post/pass  haihabk.mdenc",
     "docs/post/qui-tac-90-90-1.md",
+    "docs/post/Git.mdenc",
+    "docs/post/Untitled 20240828 050741.md",
+    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/post/Untitled 20240828 045457.mdenc",
     "docs/post/Untitled 20240828 045950.mdenc",
     "docs/post/Untitled 20240828 045926.mdenc",
@@ -188,6 +189,7 @@
     "docs/post/Untitled 20240828 045323.mdenc",
     "docs/post/Untitled 20240828 045234.mdenc",
     "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+    "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
     "template/temp.md",
     "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
@@ -206,6 +208,7 @@
     "docs/post/Đo lường việc học.md",
     "docs/post/Neu-de-viet-gi-cho-ngay-hom-nay.md",
     "docs/post/18.1.2024.md",
-    "tes"
+    "tes",
+    "Untitled"
   ]
 }

@@ -11,9 +11,11 @@
             "id": "710bfb05f6970101",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc"
+                "file": "docs/post/Untitled 20240828 050741.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc",
+                "file": "docs/post/Untitled 20240828 050741.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc",
+                "file": "docs/post/Untitled 20240828 050741.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/pass  haihabk.mdenc"
+                "file": "docs/post/Untitled 20240828 050741.md"
               }
             }
           },
@@ -173,13 +175,13 @@
   },
   "active": "710bfb05f6970101",
   "lastOpenFiles": [
-    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
-    "docs/post/pass  haihabk.mdenc",
     "docs/post/Git.md",
-    "docs/post/vidu.mdenc",
-    "docs/post/Untitled 20240828 050741.md",
+    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+    "docs/post/vidu.mdenc",
+    "docs/post/pass  haihabk.mdenc",
     "docs/post/qui-tac-90-90-1.md",
+    "docs/post/Untitled 20240828 050741.md",
     "docs/post/Untitled 20240828 045457.mdenc",
     "docs/post/Untitled 20240828 045950.mdenc",
     "docs/post/Untitled 20240828 045926.mdenc",
