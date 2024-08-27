@@ -4,5 +4,6 @@
   "templater-obsidian",
   "settings-search",
   "tray",
-  "file-tree-alternative"
+  "file-tree-alternative",
+  "callout-manager"
 ]

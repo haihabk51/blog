@@ -1,9 +1,9 @@
 ---
 title: Đổi tên của Properties trong Obsidian
-aliases: 
+aliases:
+  - Đổi tên của Properties trong Obsidian
 tags:
-  - obsidian
-  - properties
+  - obsidian/properties
 date: 2024-08-27
 ---
 ![](https://i.imgur.com/tC5GvFz.png)
