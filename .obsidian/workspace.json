@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -56,9 +56,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
-                "mode": "preview",
-                "source": false
+                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "485d0187d04d8acd",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md"
+                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md"
               }
             }
           },
@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +216,8 @@
   },
   "active": "5f323d5f2b816ebe",
   "lastOpenFiles": [
-    "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
     "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+    "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
     "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
     "docs/post/Trang web để lấy icon.md",
