@@ -1,11 +1,4 @@
----
-quickshare-date: 2024-03-19 16:49:16
-quickshare-url: "https://noteshare.space/note/clty70j6x2556301mwkyruswab#CBC62FevLMpb0mO3BOcfpVaCxU1Tao9EaKt1UETX80A"
-TARGET DECK: Book_Cloze
-dg-publish: true
-telegraph_page_url: https://telegra.ph/Bạn-đắt-giá-bao-nhiêu-03-19
-telegraph_page_path: Bạn-đắt-giá-bao-nhiêu-03-19
----
+
 ## Sự thỏa hiệp có làm bạn hạnh phúc
 trong chúng ta, có rất nhiều người cố gắng cả đời cũng không thể tìm thấy tình yêu chân thành, bởi vì chúng ta đã ==thỏa hiệp== với cuộc sống trước khi tình yêu ấy xuất hiện.
 <!--ID: 1709531855779-->
