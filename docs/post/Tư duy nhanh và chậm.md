@@ -1,5 +1,4 @@
 
-
 - Tại sao chúng ta lại quan tâm đến những câu chuyện phiếm? ::  ==Bởi "kể tội" hay "nói xấu" người khác bao giờ cũng dễ dàng và thích thú hơn là tự nhận ra lỗi lầm của chính mình.==
 <!--ID: 1706848332659-->
 
