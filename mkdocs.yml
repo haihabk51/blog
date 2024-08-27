@@ -4,25 +4,24 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/brain
-    # favicon: assets/meta/brain-solid.png
   font:
     text: Open Sans
     code: Roboto Mono
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default  # Chế độ sáng
-      primary: purple  # Màu tím cho chế độ sáng
+      scheme: default
+      primary: purple
       accent: purple
       toggle:
-        icon: fontawesome/solid/moon  # Biểu tượng mặt trăng cho chế độ dark mode
+        icon: fontawesome/solid/moon
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate  # Chế độ tối mặc định
+      scheme: slate
       primary: black
       accent: indigo
       toggle:
-        icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
+        icon: fontawesome/solid/sun
         name: Switch to light mode
 
 features:
@@ -30,13 +29,17 @@ features:
   - search.highlight
   - navigation.footer
 
+nav:
+  - Home: index.md
+  - Blog: 
+      - !include "post"  # Tự động bao gồm toàn bộ thư mục post
+  - About: about.md
+  - Contact: contact.md
+
 plugins:
   - search
-  # - roamlinks
   - autolinks
   - callouts
-  # - meta:
-  #     meta_file: .meta.yml
   - blogging:
       dirs:
         - post
@@ -46,6 +49,7 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
+  - awesome-pages
 
 markdown_extensions:
   - wikilinks
@@ -91,5 +95,5 @@ extra:
       link: https://substack.com/@nguyenhaiha
     - icon: fontawesome/solid/globe
       link: https://www.khoahocobsidian.com
-  
+
 copyright: Copyright &copy; 2024 haihanguyen
