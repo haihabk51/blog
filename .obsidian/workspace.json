@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8ac2ef8bb17aeb27",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d5b26a302d4f7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602d085491370650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f323d5f2b816ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "7eb7dea2fdcdfad7",
         "type": "tabs",
         "children": [
@@ -56,9 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1436a54afd396063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e9fafd8528f5a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md"
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md"
               }
             }
           },
@@ -214,10 +188,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5f323d5f2b816ebe",
+  "active": "5e9fafd8528f5a78",
   "lastOpenFiles": [
-    "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+    "template/temp.md",
+    "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
     "docs/post/Trang web để lấy icon.md",
@@ -229,7 +204,6 @@
     "docs/post/ban-dat-gia-bao-nhieu.md",
     "docs/post/Hom-nay-bạn-nghi-gi.md",
     "docs/post/2024-08-27.md",
-    "template/temp.md",
     "docs/post/Untitled.md",
     "docs/Obsidian/test.md",
     "docs/post/pass  haihabk.md",
