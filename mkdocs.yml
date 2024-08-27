@@ -30,9 +30,8 @@ theme:
         name: Switch to light mode
 
 plugins:
-  - tags:
-      tags_file: tags.md
-    - blogging:
+
+  - blogging:
       dirs:
         - post
       template: overrides/custom-blog.html
@@ -41,7 +40,7 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-      
+
 markdown_extensions:
   - wikilinks
 
