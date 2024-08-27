@@ -29,7 +29,7 @@ theme:
         icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
         name: Switch to light mode
   palette:
-    primary: deep purple
+    primary: custom
 
 plugins:
   - search
@@ -56,4 +56,7 @@ features:
   - search.highlight
   - navigation.footer
 
+extra_css:
+  - stylesheets/extra.css
+  
 copyright: Copyright &copy; 2024 haihanguyen
