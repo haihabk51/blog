@@ -10,28 +10,26 @@ theme:
     code: Roboto Mono
   language: en
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ sáng
-        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
+      scheme: default  # Chế độ sáng
+      primary: purple  # Màu tím cho chế độ sáng
+      accent: purple
       toggle:
         icon: fontawesome/solid/moon  # Biểu tượng mặt trăng cho chế độ dark mode
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: slate  # Chế độ tối mặc định
       primary: black
       accent: indigo
       toggle:
         icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
         name: Switch to light mode
-    features:
+
+features:
   - search.suggest
   - search.highlight
   - navigation.footer
+
 plugins:
   - search
   # - roamlinks
@@ -62,24 +60,23 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - def_list
-  - pymdownx.tasklist:
+  - pymdownx.tasklist
       custom_checkbox: true
-  - pymdownx.highlight:
+  - pymdownx.highlight
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  - pymdownx.tabbed:
+  - pymdownx.tabbed
       alternate_style: true
       combine_header_slug: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
-  - toc:
+  - toc
       permalink: true
-
 
 extra_css:
   - stylesheets/extra.css
