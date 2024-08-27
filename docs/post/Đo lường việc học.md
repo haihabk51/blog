@@ -1,19 +1,4 @@
----
-aliases: 
-tags: 
-Related: 
-date: 
-URL: 
-Author: 
-dg-publish: true
-image:
----
-# Đo lường việc học và việc dạy con
-**[[Homepage|Quay Lại👈]]**
 
-Source : 
-Tags: #daily
----
 
 
 Cho đến khi nhận được giá trị từ việc tự học, Tôi nhận thấy việc đo lường số giờ bỏ ra cho một việc giúp tôi định giá những nỗ lực của chính tôi. Từ đó, tôi bình tĩnh hơn với những kết quả thu được.

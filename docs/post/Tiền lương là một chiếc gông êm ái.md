@@ -1,10 +1,4 @@
----
-dg-publish: true
-date: 2023-12-26
-Author: nguyễn hải hà
-banner: https://images.unsplash.com/photo-1554672723-b208dc85134f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxOHx8bW9uZXl8ZW58MHwwfHx8MTcxMTc1NTAyNXww&ixlib=rb-4.0.3&q=80&w=1080
-image: "https://images.unsplash.com/photo-1554672723-b208dc85134f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxOHx8bW9uZXl8ZW58MHwwfHx8MTcxMTc1NTAyNXww&ixlib=rb-4.0.3&q=80&w=1080"
----
+
 
 
 ![stone, beach, pebble, balance, sea, zen, rock, stack, stones, nature, harmony, spa, water, sand, meditation, ocean, stability, calm, tranquil, sky, rocks, peace, heap, tower, pebbles ](https://images.unsplash.com/photo-1631277877896-4ce2b6770da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxzdGFiaWxpdHl8ZW58MHwwfHx8MTcwMzU1OTc2OHww&ixlib=rb-4.0.3&q=80&w=1080)

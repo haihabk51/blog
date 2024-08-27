@@ -1,11 +1,4 @@
----
-aliases: 
-tags: 
-date: 
-URL: 
-dg-publish: true
-image:
----
+
 # Trường Làng vẫn ra thế giới
 
 

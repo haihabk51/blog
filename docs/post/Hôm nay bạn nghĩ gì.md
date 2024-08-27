@@ -1,14 +1,4 @@
----
-aliases:
-link:
-dg-publish: true
-tags:
-  - Dairy
-banner: https://images.unsplash.com/photo-1603398737422-a6b2a2ff297f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600
-date:
-Tiêu Đề: Hôm nay bạn nghĩ gì
-URL: ""
----
+
 
 
 # Còn mình?
