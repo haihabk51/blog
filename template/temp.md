@@ -1,6 +1,6 @@
 ---
 title: 
-aliases: 
+aliases: []
 tags:
   - viết
 date:

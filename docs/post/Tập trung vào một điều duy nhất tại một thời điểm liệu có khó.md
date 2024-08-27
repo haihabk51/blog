@@ -1,6 +1,6 @@
 Tập trung vào một điều duy nhất tại một thời điểm liệu có khó
 
-Ở một thời điểm bạn không thể có nhiều ==nguồn lực==- Mình rất thích từ "Nguồn lực".
+Ở một thời điểm bạn không thể có nhiều nguồn lực- Mình rất thích từ "Nguồn lực".
 Ở đây là thời gian, sức khỏe và cả tiên bạc nữa.
 
 Mình có thật nhiều mong muốn muốn thực hiện.

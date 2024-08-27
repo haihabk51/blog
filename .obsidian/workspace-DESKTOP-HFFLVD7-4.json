@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c9a0defb05b7c573",
+    "type": "split",
+    "children": [
+      {
+        "id": "126afb2f9692965e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "317d82325e65fe8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Vlogs/2024.Jan.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87439f0b9928d4a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca5bb0dfd1a71e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09f41e3e114385ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95d0f6e4ee53b168",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a72b1b68bfda7e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab2b6f5032d1538d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3514e05b1e3d1fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33cbb04c2a121089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Vlogs/2024.Jan.3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f63735487b66f1ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Vlogs/2024.Jan.3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "860e3954ddf6c894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef5cce574a979be6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Vlogs/2024.Jan.3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "317d82325e65fe8f",
+  "lastOpenFiles": [
+    "docs/Vlogs/2024.Jan.2.md",
+    "docs/Vlogs/26.8.2024.md",
+    "docs/Vlogs/18.1.2024.md",
+    "docs/Vlogs/19.3.2024.md",
+    "docs/Vlogs/2023.DEC.29.md",
+    "docs/Vlogs/2023.Dec.28.md",
+    "docs/Vlogs/2024.Jan.3.md",
+    "docs/Vlogs/Tư duy nhanh và chậm.md",
+    "docs/Vlogs/Untitled 2.md",
+    "docs/Vlogs/Untitled 1.md",
+    "docs/Vlogs/Untitled.md",
+    "docs/Vlogs/Trang web để lấy icon.md",
+    "docs/Vlogs/HỌC HÀNH ÍT NHƯNG THỦ ĐOẠN NHIỀU-APP NGHE CHÉP CHÍNH TẢ BÁ ĐẠO TRÊN ĐIỆN THOẠI IPHONE.md",
+    "docs/Vlogs/Đo lường việc học.md",
+    "docs/Vlogs/2024-03-10.md"
+  ]
+}

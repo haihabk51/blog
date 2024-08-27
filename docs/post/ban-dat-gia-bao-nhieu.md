@@ -1,5 +1,7 @@
 ---
 title: Bạn đắt giá bao nhiêu
+tags:
+  - daily
 ---
 
 ## Sự thỏa hiệp có làm bạn hạnh phúc
