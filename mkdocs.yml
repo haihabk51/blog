@@ -60,22 +60,22 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - def_list
-  - pymdownx.tasklist
+  - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.highlight
+  - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
-  - toc
+  - toc:
       permalink: true
 
 extra_css:
