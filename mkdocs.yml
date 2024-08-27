@@ -12,7 +12,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: fontawesome/solid/sun  # Thay đổi thành biểu tượng mặt trời
+        icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ sáng
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -28,8 +28,6 @@ theme:
       toggle:
         icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
         name: Switch to light mode
-  palette:
-    primary: custom
 
 plugins:
   - search
@@ -69,6 +67,5 @@ extra:
       link: https://substack.com/@nguyenhaiha
     - icon: fontawesome/solid/globe
       link: https://www.khoahocobsidian.com
-
   
 copyright: Copyright &copy; 2024 haihanguyen
