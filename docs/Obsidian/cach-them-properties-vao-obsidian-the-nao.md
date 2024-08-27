@@ -29,4 +29,4 @@ date: 2024-08-28
 > Nhấn tổ hợp phím Ctrl ; 
 
 > [!question] Sau khi thêm Các Properties và muốn đổi tên các thông tin ví dụ : author thành Author thì làm thế nào? Xem bài dưới
-> [[[Doi-ten-cua-properties-trong-obsidian|Đổi tên của Properties trong Obsidian]]](cach-them-properties-vao-obsidian-the-nao.md)
+> [[Doi-ten-cua-properties-trong-obsidian|Đổi tên của Properties trong Obsidian]]

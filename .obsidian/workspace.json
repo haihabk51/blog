@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -188,7 +188,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5e9fafd8528f5a78",
+  "active": "c09f718292b9f8b5",
   "lastOpenFiles": [
     "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
     "template/temp.md",
