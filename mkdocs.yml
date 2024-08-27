@@ -31,8 +31,7 @@ features:
 
 nav:
   - Home: index.md
-  - Blog: 
-      - !include "post"  # Tự động bao gồm toàn bộ thư mục post
+  - Blog:  # Không cần sử dụng !include, chỉ cần chỉ định thư mục.
   - About: about.md
   - Contact: contact.md
 
@@ -49,7 +48,7 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-  - awesome-pages
+  - awesome-pages  # Plugin này sẽ tự động quét thư mục post
 
 markdown_extensions:
   - wikilinks
