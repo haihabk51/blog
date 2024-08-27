@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/Tư duy nhanh và chậm.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/post/Tư duy nhanh và chậm.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/Tư duy nhanh và chậm.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/Tư duy nhanh và chậm.md"
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "9d5b26a302d4f7c6",
   "lastOpenFiles": [
+    "docs/post/Tư duy nhanh và chậm.md",
+    "Untitled",
     "docs/post/Trường Làng vẫn ra thế giới.md",
     "docs/post/Trang web để lấy icon.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
@@ -187,14 +189,11 @@
     "docs/stylesheets",
     "docs/New folder",
     "docs/New shortcut.lnk",
-    "docs/post/Tư duy nhanh và chậm.md",
     "docs/post/quyết tâm.md",
     "overrides/partials/comments.html",
     "overrides/partials",
-    "overrides/custom-blog.html",
     "docs/Vlogs/Tư duy nhanh và chậm.md",
     "docs/post/Đo lường việc học.md",
-    "docs/post/Tập trung vào một điều duy nhất tại một thời điểm liệu có khó.md",
-    "docs/post/Tư duy nhanh và chậm.md"
+    "docs/post/Tập trung vào một điều duy nhất tại một thời điểm liệu có khó.md"
   ]
 }
