@@ -1,18 +1,11 @@
----
-tags:
-aliases:
-link:
-dg-publish: false
-dg-home: false
-title:
-date: 2023-11-09
-URL: ""
----
+
+
+
 
 Nếu #Obsidian dễ như Word, đơn giản như #Notion, tại sao mình lại phải học thêm nó?
 
 Mình muốn cái tốt hơn, phù hợp hơn nhưng những cái cũ vẫn đang dùng được vì nó là vùng thoải mái của mình. Học một cái mới sẽ phải tập trung và nghĩ nó khó.
----
+
 Lúc mình mới học nó thì đúng là nó khó thật vì tìm biển rừng youtube chỉ có đếm trên đầu ngón tay video hướng dẫn bằng tiếng anh. Tiếng nhật vài cái, tiếng trung vài cái.
 Còn giờ bạn có thể học tất cả với lượng video khổng lồ. Nhưng bạn vẫn thấy khó vì không biết bắt đầu từ đâu, như thế nào. 
 
