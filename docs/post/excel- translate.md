@@ -30,12 +30,14 @@ Function translate_text$(text_str$, src_lang$, trgt_lang$)
 End Function
 ```
 Sau đó save lại
+
 ![](https://i.imgur.com/eVg66cb.png)
+
 Bây giờ thực hiện translate thôi. Chú thích một chút cho ai đó. 
-Cột 1: Nội dung cần dịch 
-Cột số 2 là MÃ ngôn ngữ nguồn. 
-Cột số 3 là MÃ ngôn ngữ đích 
-Cột số 4 ta gõ hàm =translate_text()
+- Cột 1: Nội dung cần dịch 
+- Cột số 2 là MÃ ngôn ngữ nguồn. 
+- Cột số 3 là MÃ ngôn ngữ đích 
+- Cột số 4 ta gõ hàm =translate_text()
 ![](https://i.imgur.com/akZzaQy.png)
 ![](https://i.imgur.com/WfqjMT0.png)
 

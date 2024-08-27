@@ -1,5 +1,7 @@
 [
   "obsidian-imgur-plugin",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "settings-search",
+  "tray"
 ]
