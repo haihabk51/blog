@@ -10,10 +10,6 @@ theme:
     code: Roboto Mono
   language: en
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: fontawesome/solid/sun  # Thay đổi thành biểu tượng mặt trời
-        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -43,7 +39,7 @@ markdown_extensions:
   - wikilinks
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences  # Chỉ giữ một dòng này
   - footnotes
   - tables
   - pymdownx.critic
@@ -60,7 +56,6 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
