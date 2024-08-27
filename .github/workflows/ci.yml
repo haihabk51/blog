@@ -1,4 +1,4 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
@@ -25,6 +25,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run:
-          pip install mkdocs-material mkdocs-blogging-plugin
+      - run: python --version
+      - run: pip install --upgrade pip
+      - run: pip install mkdocs-material mkdocs-blogging-plugin
       - run: mkdocs gh-deploy --force
