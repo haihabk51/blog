@@ -43,7 +43,7 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-  - awesome-pages  # Plugin này sẽ tự động quét thư mục post
+
 
 markdown_extensions:
   - wikilinks
