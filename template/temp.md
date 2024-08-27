@@ -1,6 +1,6 @@
 ---
-tags: 
-aliases: 
-cssclasses: 
-DATE:
+filename: 
+aliases:
+tags:
+date: 
 ---

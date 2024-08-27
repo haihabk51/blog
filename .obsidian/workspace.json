@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/ban-dat-gia-bao-nhieu.md",
+                "file": "docs/Obsidian/obsidian-plugins.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/post/ban-dat-gia-bao-nhieu.md",
+                "file": "docs/Obsidian/obsidian-plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/ban-dat-gia-bao-nhieu.md",
+                "file": "docs/Obsidian/obsidian-plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/ban-dat-gia-bao-nhieu.md"
+                "file": "docs/Obsidian/obsidian-plugins.md"
               }
             }
           },
@@ -162,7 +162,9 @@
   },
   "active": "4cc8ee686802a40e",
   "lastOpenFiles": [
+    "docs/post/ban-dat-gia-bao-nhieu.md",
     "docs/Obsidian/obsidian-plugins.md",
+    "template/temp.md",
     "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
     "docs/post/excel- translate.md",
     "docs/post/do-luong-viec-hoc.md",
@@ -174,8 +176,6 @@
     "docs/post/qyet-tam.md",
     "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
-    "template/temp.md",
-    "docs/post/ban-dat-gia-bao-nhieu.md",
     "template",
     "docs/stylesheets/extra.css",
     "docs/stylesheets/extra.css.ahk",

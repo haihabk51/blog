@@ -1,3 +1,6 @@
+---
+title: Bạn đắt giá bao nhiêu
+---
 
 ## Sự thỏa hiệp có làm bạn hạnh phúc
 trong chúng ta, có rất nhiều người cố gắng cả đời cũng không thể tìm thấy tình yêu chân thành, bởi vì chúng ta đã ==thỏa hiệp== với cuộc sống trước khi tình yêu ấy xuất hiện.
