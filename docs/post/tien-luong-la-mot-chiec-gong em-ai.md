@@ -1,7 +1,8 @@
 ---
 title: Tiền lương là một chiêc gông êm ái
 aliases: 
-tags: 
+tags:
+  - daily
 date:
 ---
 

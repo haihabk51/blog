@@ -1,7 +1,8 @@
 ---
 title: Đo lường việc học
 aliases: 
-tags: 
+tags:
+  - daily
 date:
 ---
 

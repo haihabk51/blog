@@ -1,7 +1,8 @@
 ---
 title: Cuộc đời nói chuyện bằng kết quả
 aliases: 
-tags: 
+tags:
+  - daily
 date:
 ---
 
