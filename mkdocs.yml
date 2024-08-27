@@ -58,5 +58,17 @@ features:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@nguyenhaihabk
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/hahtd3
+    - icon: fontawesome/solid/bookmark
+      link: https://substack.com/@nguyenhaiha
+    - icon: fontawesome/solid/globe
+      link: https://www.khoahocobsidian.com
+
   
 copyright: Copyright &copy; 2024 haihanguyen
