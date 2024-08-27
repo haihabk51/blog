@@ -6,7 +6,7 @@ theme:
     logo: fontawesome/solid/brain
     # favicon: assets/meta/brain-solid.png
   font:
-    text: Plus Jakarta Sans
+    text: Open Sans
     code: Roboto Mono
   language: en
   palette:
