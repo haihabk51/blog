@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Vlogs/Tư duy nhanh và chậm.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Vlogs/Tư duy nhanh và chậm.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Vlogs/Tư duy nhanh và chậm.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Vlogs/Tư duy nhanh và chậm.md"
+                "file": "docs/index.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,36 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1759c8c853b9dc3c",
+  "active": "ad7c9ebe4c9a1134",
   "lastOpenFiles": [
-    "docs/Vlogs/Trường Làng vẫn ra thế giới.md",
-    "docs/Vlogs/Trang web để lấy icon.md",
+    "docs/Vlogs/Untitled 1.md",
     "docs/Vlogs/Tiền lương là một chiếc gông êm ái.md",
-    "docs/Vlogs/quyết tâm.md",
-    "docs/Vlogs/Học một cái mới.md",
-    "docs/Vlogs/HỌC HÀNH ÍT NHƯNG THỦ ĐOẠN NHIỀU-APP NGHE CHÉP CHÍNH TẢ BÁ ĐẠO TRÊN ĐIỆN THOẠI IPHONE.md",
-    "docs/Vlogs/Git.md",
-    "docs/Vlogs/2023.DEC.29.md",
-    "docs/Vlogs/18.1.2024.md",
-    "docs/Vlogs/2024.Jan.3.md",
-    "docs/Vlogs/cung-dau-va-su-quyet-tam.md",
-    "docs/Vlogs/Đo lường việc học.md",
     "docs/Vlogs/Tập trung vào một điều duy nhất tại một thời điểm liệu có khó.md",
     "docs/Vlogs/Qui tắc 90 90 1.md",
     "docs/Vlogs/Nếu để viết gì cho ngày hôm nay..md",
     "docs/Vlogs/Hôm nay bạn nghĩ gì.md",
+    "docs/Vlogs/Học một cái mới.md",
+    "docs/Vlogs/HỌC HÀNH ÍT NHƯNG THỦ ĐOẠN NHIỀU-APP NGHE CHÉP CHÍNH TẢ BÁ ĐẠO TRÊN ĐIỆN THOẠI IPHONE.md",
+    "docs/Vlogs/Đo lường việc học.md",
+    "docs/Vlogs/2024-03-10.md",
+    "docs/Vlogs/2024.Jan.3.md",
     "docs/Vlogs/2024.Jan.2.md",
+    "docs/Vlogs/2023.DEC.29.md",
+    "docs/Vlogs/2023.Dec.28.md",
     "docs/Vlogs/19.3.2024.md",
-    "docs/Obsidian",
+    "docs/Vlogs/18.1.2024.md",
+    "docs/Vlogs/Untitled.md",
+    "docs/Vlogs/Untitled 2.md",
     "docs/Vlogs/ban-dat-gia-bao-nhieu.md",
     "docs/Vlogs/Bạn đắt giá bao nhiêu.md",
     "docs/Vlogs/Tư duy nhanh và chậm.md",
     "docs/Vlogs/Test.md",
-    "docs/Vlogs/26.8.2024.md",
     "docs/Vlogs/tes.md",
+    "docs/Vlogs/26.8.2024.md",
+    "docs/Vlogs/quyết tâm.md",
     "rs-test-folder-LdX5mcqnz3PjbBd5o1sH0/rs-test-file-Q83Gk3wyL236r_4rhS7rt",
     "rs-test-folder-LdX5mcqnz3PjbBd5o1sH0",
-    "docs/tags.md",
-    "docs/Vlogs/cứng đầu.md"
+    "docs/Vlogs/Trang web để lấy icon.md"
   ]
 }
