@@ -28,6 +28,8 @@ theme:
       toggle:
         icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
         name: Switch to light mode
+  palette:
+    primary: deep purple
 
 plugins:
   - search
