@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/excel- translate.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/post/excel- translate.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/excel- translate.md",
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/excel- translate.md"
+                "file": "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "4109c375a933e720",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,8 +159,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad7c9ebe4c9a1134",
+  "active": "4cc8ee686802a40e",
   "lastOpenFiles": [
+    "docs/post/excel- translate.md",
+    "docs/Obsidian/Doi-ten-cua-properties trong-obsidian.md",
     "docs/post/do-luong-viec-hoc.md",
     "docs/post/hoc-hanh-it-thu-doan-nhieu.md",
     "docs/post/hoc-mot-cai-moi.md",
@@ -159,7 +174,6 @@
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
     "template/temp.md",
     "docs/post/ban-dat-gia-bao-nhieu.md",
-    "docs/post/excel- translate.md",
     "template",
     "docs/stylesheets/extra.css",
     "docs/stylesheets/extra.css.ahk",
@@ -167,8 +181,8 @@
     "docs/stylesheets",
     "docs/New folder",
     "docs/New shortcut.lnk",
-    "docs/Obsidian/Tư duy nhanh và chậm.md",
-    "docs/Obsidian/Trường Làng vẫn ra thế giới.md",
+    "docs/post/Tư duy nhanh và chậm.md",
+    "docs/post/Trường Làng vẫn ra thế giới.md",
     "docs/post/quyết tâm.md",
     "overrides/partials/comments.html",
     "overrides/partials",
@@ -182,7 +196,6 @@
     "docs/post/Tiền lương là một chiếc gông êm ái.md",
     "docs/post/Qui tắc 90 90 1.md",
     "docs/post/Nếu để viết gì cho ngày hôm nay..md",
-    "docs/post/Học một cái mới.md",
-    "docs/post/HỌC HÀNH ÍT NHƯNG THỦ ĐOẠN NHIỀU-APP NGHE CHÉP CHÍNH TẢ BÁ ĐẠO TRÊN ĐIỆN THOẠI IPHONE.md"
+    "docs/post/Học một cái mới.md"
   ]
 }
