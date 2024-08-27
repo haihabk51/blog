@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/post/do-luong-viec-hoc.md",
+                "file": "template/temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/post/do-luong-viec-hoc.md",
+                "file": "template/temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/post/do-luong-viec-hoc.md",
+                "file": "template/temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/post/do-luong-viec-hoc.md"
+                "file": "template/temp.md"
               }
             }
           },
@@ -161,13 +161,13 @@
   },
   "active": "9d5b26a302d4f7c6",
   "lastOpenFiles": [
+    "docs/post/do-luong-viec-hoc.md",
     "docs/post/qui-tac-90-90-1.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
     "docs/post/ban-dat-gia-bao-nhieu.md",
     "docs/post/Hom-nay-bạn-nghi-gi.md",
     "docs/post/Neu-de-viet-gi-cho-ngay-hom-nay.md",
     "docs/post/excel- translate.md",
-    "docs/post/do-luong-viec-hoc.md",
     "docs/post/cung-dau-va-su-quyet-tam.md",
     "template/temp.md",
     "docs/Obsidian/obsidian-plugins.md",

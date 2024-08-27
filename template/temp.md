@@ -1,6 +1,7 @@
 ---
 title: 
 aliases: 
-tags: 
+tags:
+  - viết
 date:
 ---
