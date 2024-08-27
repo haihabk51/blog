@@ -25,9 +25,9 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "C:\\Users\\nguyhh.LLC\\OneDrive\\Apps\\remotely-save\\blog",
   "showFileMenu": true,
-  "authorInHistoryView": "hide",
+  "authorInHistoryView": "full",
   "dateInHistoryView": false,
   "lineAuthor": {
     "show": false,

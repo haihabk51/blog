@@ -1,6 +1,8 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "docs/Vlogs",
+  "newFileFolderPath": "docs/post",
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "docs/assets",
+  "spellcheck": false
 }
