@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Vlogs/Git.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Vlogs/Git.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Vlogs/Git.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Vlogs/Git.md"
+                "file": "docs/index.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1759c8c853b9dc3c",
+  "active": "ad7c9ebe4c9a1134",
   "lastOpenFiles": [
-    "docs/Vlogs/quyết tâm.md",
-    "docs/Vlogs/Git.md",
-    "docs/Obsidian",
     "docs/Vlogs/ban-dat-gia-bao-nhieu.md",
     "docs/Vlogs/Bạn đắt giá bao nhiêu.md",
     "docs/Vlogs/Tư duy nhanh và chậm.md",
     "docs/Vlogs/Test.md",
-    "docs/Vlogs/26.8.2024.md",
     "docs/Vlogs/tes.md",
+    "docs/Vlogs/26.8.2024.md",
+    "docs/Vlogs/quyết tâm.md",
     "rs-test-folder-LdX5mcqnz3PjbBd5o1sH0/rs-test-file-Q83Gk3wyL236r_4rhS7rt",
     "rs-test-folder-LdX5mcqnz3PjbBd5o1sH0",
     "docs/Vlogs/Trang web để lấy icon.md",
