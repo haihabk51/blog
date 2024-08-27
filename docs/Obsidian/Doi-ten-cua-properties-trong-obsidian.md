@@ -3,6 +3,7 @@ title: Đổi tên của Properties trong Obsidian
 aliases:
   - Đổi tên của Properties trong Obsidian
 tags:
+  - obsidian
   - obsidian/properties
 date: 2024-08-27
 ---
