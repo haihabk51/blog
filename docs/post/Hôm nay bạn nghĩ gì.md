@@ -1,6 +1,5 @@
 
 
-
 # Còn mình?
 
 Mình cảm ơn bản thân đã cố gắng một năm qua. Trên hành trình tự tìm phiên bản tốt hơn. Mình là một người thầy của chính mình. Mình tự hào có những lúc thật chăm chỉ. Nhưng có những lúc lại thấy bản thân thật lười biếng, thiếu kỷ luật.
