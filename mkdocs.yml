@@ -29,10 +29,6 @@ features:
   - search.highlight
   - navigation.footer
 
-nav:
-  - Home: index.md
-  - Blog:  # Không cần sử dụng !include, chỉ cần chỉ định thư mục.
-  
 
 plugins:
   - search
