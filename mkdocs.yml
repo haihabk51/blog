@@ -28,7 +28,10 @@ theme:
       toggle:
         icon: fontawesome/solid/sun  # Biểu tượng mặt trời cho chế độ light mode
         name: Switch to light mode
-
+    features:
+  - search.suggest
+  - search.highlight
+  - navigation.footer
 plugins:
   - search
   # - roamlinks
@@ -76,10 +79,7 @@ markdown_extensions:
           case: lower
   - toc:
       permalink: true
-features:
-  - search.suggest
-  - search.highlight
-  - navigation.footer
+
 
 extra_css:
   - stylesheets/extra.css
