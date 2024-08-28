@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "72455766f3de5bac",
+        "id": "48fd5a71ad96df87",
         "type": "tabs",
         "children": [
           {
-            "id": "710bfb05f6970101",
+            "id": "7c125d8e751f90c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +172,21 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "710bfb05f6970101",
+  "active": "7c125d8e751f90c5",
   "lastOpenFiles": [
+    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
+    "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+    "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+    "docs/post/Untitled.md",
+    "enveloppe/docs/Untitled.md",
+    "enveloppe/docs/Đặt Password cho một file trong Obsidian.md",
+    "enveloppe/docs/Đổi tên của Properties trong Obsidian.md",
+    "enveloppe/docs/index.md",
+    "enveloppe/docs/VÍ DỤ.md",
+    "enveloppe/docs/tags.md",
+    "enveloppe/docs",
+    "enveloppe",
+    "docs/index.md",
     "docs/post/Mất ngủ.md",
     "docs/post/Tư duy nhanh và chậm.md",
     "docs/post/các nền tảng số giúp kết nối hàng tỉ con người.md",
@@ -191,25 +203,12 @@
     "docs/post/suy niệm về viện ngủ sớm và dậy sớm.md",
     "docs/post/Tập trung vào một điều duy nhất tại một thời điểm liệu có khó.md",
     "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
-    "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
-    "docs/post/Trang web để lấy icon.md",
-    "docs/post/Trường Làng vẫn ra thế giới.md",
-    "docs/post/excel- translate.md",
-    "docs/post/Git.md",
-    "docs/post/hoc-hanh-it-thu-doan-nhieu.md",
-    "docs/post/Thành công.md",
-    "docs/post/do-luong-viec-hoc.md",
-    "docs/post/Hom-nay-bạn-nghi-gi.md",
-    "docs/post/Dậy sớm để làm gì.md",
-    "docs/Obsidian/obsidian git.md",
-    "enveloppe",
     "docs/post/vidu.mdenc",
     "docs/post/Untitled 20240828 045457.mdenc",
     "docs/post/Untitled 20240828 045950.mdenc",
     "docs/post/Untitled 20240828 045926.mdenc",
     "docs/post/Untitled 20240828 045157.mdenc",
     "docs/post/Untitled 20240828 045323.mdenc",
-    "docs/post/Untitled 20240828 045234.mdenc",
-    "tes"
+    "docs/post/Untitled 20240828 045234.mdenc"
   ]
 }

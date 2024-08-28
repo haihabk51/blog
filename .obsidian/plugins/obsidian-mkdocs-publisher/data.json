@@ -6,9 +6,9 @@
     "automaticallyMergePR": true,
     "dryRun": {
       "enable": false,
-      "folderName": "enveloppe"
+      "folderName": "github-publisher"
     },
-    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
@@ -23,52 +23,61 @@
   },
   "upload": {
     "behavior": "fixed",
-    "defaultName": "docs",
-    "rootFolder": "",
-    "yamlFolderKey": "",
+    "defaultName": "",
+    "rootFolder": "docs",
+    "yamlFolderKey": "category",
     "frontmatterTitle": {
-      "enable": false,
-      "key": "title"
+      "enable": true,
+      "key": "filename"
     },
     "replaceTitle": [],
     "replacePath": [],
     "autoclean": {
       "includeAttachments": true,
-      "enable": false,
-      "excluded": []
+      "enable": true,
+      "excluded": [
+        "docs/assets/js",
+        "docs/assets/meta",
+        "docs/assets/css",
+        "tags.md",
+        "graph.md"
+      ]
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md",
       "addTitle": {
         "enable": false,
         "key": "title"
       }
     },
-    "metadataExtractorPath": ""
+    "metadataExtractorPath": "",
+    "subFolder": ""
   },
   "conversion": {
     "hardbreak": false,
     "dataview": true,
     "censorText": [],
     "tags": {
-      "inline": false,
+      "inline": true,
       "exclude": [],
       "fields": []
     },
     "links": {
       "internal": true,
-      "unshared": false,
+      "unshared": true,
       "wiki": true,
-      "slugify": "disable"
+      "slugify": false
     }
   },
   "embed": {
     "attachments": true,
     "overrideAttachments": [],
-    "keySendFile": [],
-    "notes": false,
-    "folder": "",
+    "keySendFile": [
+      "image"
+    ],
+    "notes": true,
+    "folder": "docs/assets/img",
     "convertEmbedToLinks": "keep",
     "charConvert": "->",
     "unHandledObsidianExt": [],
@@ -78,9 +87,7 @@
     "shareKey": "share",
     "fileMenu": true,
     "editorMenu": true,
-    "excludedFolder": [
-      "template"
-    ],
+    "excludedFolder": [],
     "copyLink": {
       "enable": false,
       "links": "",
@@ -92,14 +99,11 @@
         "applyRegex": []
       }
     },
-    "noticeError": false,
+    "noticeError": true,
     "displayModalRepoEditing": false,
     "setFrontmatterKey": "Set",
-    "migrated": true,
-    "shareAll": {
-      "enable": true,
-      "excludedFileName": "DRAFT"
-    }
+    "dev": true,
+    "migrated": true
   },
-  "tabsId": "github-configuration"
+  "tabsId": "upload-configuration"
 }

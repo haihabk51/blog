@@ -1,6 +1,6 @@
 ---
 share: true
-title: Cách thêm Properties vào Obsidian như thế nào?
+filename: Cách thêm Properties vào Obsidian như thế nào?
 aliases:
   - Cách thêm Properties vào Obsidian như thế nào
 tags:
