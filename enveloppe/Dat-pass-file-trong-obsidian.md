@@ -1,8 +1,7 @@
 ---
 share: true
 title: Đặt Password cho một file trong Obsidian
-aliases: Đặt Password cho một file trong Obsidian
-  - Đặt Password cho một file trong Obsidian
+aliases: Đặt Password cho một file trong Obsidian - Đặt Password cho một file trong Obsidian
 tags:
   - obsidian
   - password

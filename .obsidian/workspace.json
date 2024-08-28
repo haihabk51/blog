@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/Untitled 1.md",
-                "mode": "source",
+                "file": "docs/Obsidian/obsidian git.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/Untitled 1.md",
+                "file": "docs/Obsidian/obsidian git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/Untitled 1.md",
+                "file": "docs/Obsidian/obsidian git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/Untitled 1.md"
+                "file": "docs/Obsidian/obsidian git.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,40 +175,41 @@
   },
   "active": "710bfb05f6970101",
   "lastOpenFiles": [
-    "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
-    "docs/index.md",
+    "docs/post/Mất ngủ.md",
+    "docs/post/khoảnh khác quý giá.md",
+    "docs/post/Dậy sớm để làm gì.md",
+    "docs/post/CN Khắc kỷ.md",
+    "docs/post/chủ nghĩa khắc kỷ là gì.md",
+    "docs/post/Cảm tạ phúc lành.md",
+    "docs/post/các nền tảng số giúp kết nối hàng tỉ con người.md",
+    "docs/post/2024-00-đ.md",
+    "docs/post/24h một ngày.md",
+    "docs/post/trạng thái cảm xúc hỗn độn.md",
+    "docs/post/Thành công.md",
+    "docs/post/suy niệm về viện ngủ sớm và dậy sớm.md",
+    "docs/post/Sức khoẻ.md",
+    "docs/post/nô lệ.md",
+    "docs/post/Niềm vui và hạnh phúc đến từ đâu.md",
+    "docs/post/ngày lễ Sabbath.md",
+    "enveloppe/obsidian git.md",
     "docs/Obsidian/Untitled 1.md",
+    "docs/Obsidian/obsidian git.md",
     "docs/Obsidian/Untitled.md",
-    "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
-    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
+    "enveloppe/index.md",
+    "enveloppe/do-luong-viec-hoc.md",
+    "enveloppe/ban-dat-gia-bao-nhieu.md",
+    "enveloppe/hoc-hanh-it-thu-doan-nhieu.md",
+    "enveloppe/Git.md",
+    "enveloppe/excel- translate.md",
+    "enveloppe",
     "docs/post/pass  haihabk.mdenc",
-    "docs/post/Git.md",
     "docs/post/vidu.mdenc",
-    "docs/post/Untitled 20240828 050741.md",
-    "docs/post/qui-tac-90-90-1.md",
     "docs/post/Untitled 20240828 045457.mdenc",
     "docs/post/Untitled 20240828 045950.mdenc",
     "docs/post/Untitled 20240828 045926.mdenc",
-    "docs/post/Tư duy nhanh và chậm.md",
     "docs/post/Untitled 20240828 045157.mdenc",
     "docs/post/Untitled 20240828 045323.mdenc",
     "docs/post/Untitled 20240828 045234.mdenc",
-    "template/temp.md",
-    "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
-    "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
-    "docs/post/Trang web để lấy icon.md",
-    "docs/post/Trường Làng vẫn ra thế giới.md",
-    "docs/post/do-luong-viec-hoc.md",
-    "docs/post/excel- translate.md",
-    "docs/post/cung-dau-va-su-quyet-tam.md",
-    "docs/post/ban-dat-gia-bao-nhieu.md",
-    "docs/post/Hom-nay-bạn-nghi-gi.md",
-    "docs/post/2024-08-27.md",
-    "docs/Obsidian/test.md",
-    "docs/post/hoc-mot-cai-moi.md",
-    "docs/post/hoc-hanh-it-thu-doan-nhieu.md",
-    "docs/post/Học một cái mới.md",
-    "docs/post/Đo lường việc học.md",
     "tes"
   ]
 }
