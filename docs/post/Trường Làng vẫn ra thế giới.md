@@ -1,3 +1,6 @@
+---
+tags: ok
+---
 
 # Trường Làng vẫn ra thế giới
 

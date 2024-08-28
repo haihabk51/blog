@@ -1,3 +1,6 @@
+---
+tags: ok
+---
 Tập trung vào một điều duy nhất tại một thời điểm liệu có khó
 
 Ở một thời điểm bạn không thể có nhiều ==nguồn lực==- Mình rất thích từ "Nguồn lực".

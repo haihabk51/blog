@@ -1,3 +1,6 @@
+---
+tags: ok
+---
 ⏳Với một click thêm từ vào anki.
 với 1 click dịch luôn cả bài đọc.
 với 1 click tạo mindmap tóm tắt và lên ý tưởng.
