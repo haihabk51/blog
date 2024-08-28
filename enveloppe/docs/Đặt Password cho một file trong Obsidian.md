@@ -1,6 +1,6 @@
 ---
 share: true
-filename: Đặt Password cho một file trong Obsidian
+title: Đặt Password cho một file trong Obsidian
 aliases: Đặt Password cho một file trong Obsidian - Đặt Password cho một file trong Obsidian
 tags:
   - obsidian
