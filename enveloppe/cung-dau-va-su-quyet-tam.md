@@ -1,1 +1,0 @@
-[cứng đầu](c%E1%BB%A9ng%20%C4%91%E1%BA%A7u.md) khác gì sự [quyết tâm](quy%E1%BA%BFt%20t%C3%A2m.md)

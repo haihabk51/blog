@@ -1,4 +1,0 @@
----
-tags: ok
----
- 1 Sabbath: Khái niệm trong Do Thái giáo hoặc một số tôn giáo khác, chỉ một ngày trong tuần, thường là ngày thứ Bảy, được dành riêng để nghỉ ngơi và cầu nguyện. (Chú thích của người dịch — ND.) 

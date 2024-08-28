@@ -1,2 +1,0 @@
-Tags
-{{ tag_content }}
