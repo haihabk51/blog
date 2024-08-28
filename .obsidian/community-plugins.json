@@ -1,12 +1,10 @@
 [
   "obsidian-imgur-plugin",
-  "obsidian-git",
   "templater-obsidian",
   "settings-search",
   "tray",
   "file-tree-alternative",
   "callout-manager",
   "meld-encrypt",
-  "obsidian-mkdocs-publisher",
   "metaedit"
 ]
