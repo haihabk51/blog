@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
+                "file": "docs/Obsidian/Untitled 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
+                "file": "docs/Obsidian/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
+                "file": "docs/Obsidian/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/Dat-pass-file-trong-obsidian.md"
+                "file": "docs/Obsidian/Untitled 1.md"
               }
             }
           },
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +175,10 @@
   "active": "710bfb05f6970101",
   "lastOpenFiles": [
     "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
+    "docs/index.md",
+    "docs/Obsidian/Untitled 1.md",
+    "docs/Obsidian/Untitled.md",
+    "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/post/pass  haihabk.mdenc",
     "docs/post/Git.md",
@@ -189,7 +192,6 @@
     "docs/post/Untitled 20240828 045157.mdenc",
     "docs/post/Untitled 20240828 045323.mdenc",
     "docs/post/Untitled 20240828 045234.mdenc",
-    "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "template/temp.md",
     "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
     "docs/post/tien-luong-la-mot-chiec-gong em-ai.md",
@@ -206,8 +208,6 @@
     "docs/post/hoc-hanh-it-thu-doan-nhieu.md",
     "docs/post/Học một cái mới.md",
     "docs/post/Đo lường việc học.md",
-    "docs/post/Neu-de-viet-gi-cho-ngay-hom-nay.md",
-    "docs/post/18.1.2024.md",
     "tes"
   ]
 }
