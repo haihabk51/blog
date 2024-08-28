@@ -7,7 +7,6 @@ tags:
   - obsidian_properties
 date: 2024-08-28
 ---
-
 # Cách Thêm Properties vào Obsidian
 ## Properties trong obsidian để làm gì
 **Properties trong Obsidian là gì**:  
