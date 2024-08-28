@@ -1,6 +1,6 @@
 ---
 share: true
-filename: Đổi tên của Properties trong Obsidian
+title: Đổi tên của Properties trong Obsidian
 aliases:
   - Đổi tên của Properties trong Obsidian
 tags:
