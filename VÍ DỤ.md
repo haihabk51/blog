@@ -7,5 +7,3 @@ tags:
 date: 
 share: true
 ---
-đây là ví dụ
- 
