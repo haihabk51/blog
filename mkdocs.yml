@@ -19,8 +19,8 @@ theme:
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: deep-purple
+      primary: deep-purple
+      accent: indigo
       toggle:
         icon: fontawesome/solid/sun
         name: Switch to light mode
