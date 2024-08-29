@@ -5,6 +5,7 @@ tags:
   - viết
 date: 
 share: true
+catergory: docs
 ---
 
 # Chào Mừng bạn đến nhà của Hà
