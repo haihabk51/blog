@@ -4,7 +4,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/brain
-    favicon: assets/meta/brain-solid.png
+    favicon: assets/favicon.png
   font:
     text: Open Sans
     code: Roboto Mono
