@@ -22,13 +22,13 @@
     "rateLimit": 0
   },
   "upload": {
-    "behavior": "fixed",
-    "defaultName": "",
+    "behavior": "yaml",
+    "defaultName": "docs",
     "rootFolder": "docs",
     "yamlFolderKey": "category",
     "frontmatterTitle": {
-      "enable": true,
-      "key": "filename"
+      "enable": false,
+      "key": "title"
     },
     "replaceTitle": [],
     "replacePath": [],
@@ -44,7 +44,7 @@
       ]
     },
     "folderNote": {
-      "enable": true,
+      "enable": false,
       "rename": "index.md",
       "addTitle": {
         "enable": false,
@@ -99,10 +99,10 @@
         "applyRegex": []
       }
     },
-    "noticeError": true,
+    "noticeError": false,
     "displayModalRepoEditing": false,
     "setFrontmatterKey": "Set",
-    "dev": true,
+    "dev": false,
     "migrated": true
   },
   "tabsId": "upload-configuration"

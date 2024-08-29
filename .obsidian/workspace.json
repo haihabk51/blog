@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "48fd5a71ad96df87",
+        "id": "af1a92ef4ec50be4",
         "type": "tabs",
         "children": [
           {
-            "id": "7c125d8e751f90c5",
+            "id": "6552c4023c913cb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+                "file": "docs/Obsidian/Plugin-tray.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"catergory\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+                "file": "docs/Obsidian/Plugin-tray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+                "file": "docs/Obsidian/Plugin-tray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md"
+                "file": "docs/Obsidian/Plugin-tray.md"
               }
             }
           },
@@ -172,11 +172,29 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "7c125d8e751f90c5",
+  "active": "6552c4023c913cb4",
   "lastOpenFiles": [
+    "docs/Obsidian/quan-ly-du-an.md",
+    "docs/Obsidian/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
+    "docs/Anki/Anki-mot-click.md",
+    "site/markmap.html",
+    "template/temp.md",
+    "docs/Obsidian/Doi-ten-properties.md",
     "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
-    "docs/Obsidian/Doi-ten-cua-properties-trong-obsidian.md",
     "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
+    "docs/VLog/Untitled.md",
+    "docs/tags.md",
+    "docs/index.md",
+    "docs/assets/meta/brain-solid.png",
+    "docs/assets/img/Sau giờ học-1685161801646.jpeg",
+    "docs/assets/img/Musashi - giang hồ kiếm khách-1704789602282.jpeg",
+    "docs/assets/img/KISS (KEEP IT SIMPLE STUPID)-1685368412414.jpeg",
+    "docs/assets/img/Đọc sách (2024.07)-20240801061424520.webp",
+    "docs/assets/img/CCTK.png",
+    "docs/Obsidian/Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+    "docs/Obsidian/Plugin-tray.md",
+    "docs/Obsidian/Properties",
+    "docs/post/Untitled 1.md",
     "docs/post/Untitled.md",
     "enveloppe/docs/Untitled.md",
     "enveloppe/docs/Đặt Password cho một file trong Obsidian.md",
@@ -186,29 +204,16 @@
     "enveloppe/docs/tags.md",
     "enveloppe/docs",
     "enveloppe",
-    "docs/index.md",
     "docs/post/Mất ngủ.md",
     "docs/post/Tư duy nhanh và chậm.md",
     "docs/post/các nền tảng số giúp kết nối hàng tỉ con người.md",
     "docs/post/2024-00-đ.md",
     "docs/post/24h một ngày.md",
-    "docs/post/CN Khắc kỷ.md",
-    "docs/post/ban-dat-gia-bao-nhieu.md",
-    "docs/post/Neu-de-viet-gi-cho-ngay-hom-nay.md",
-    "docs/post/Niềm vui và hạnh phúc đến từ đâu.md",
-    "docs/post/nô lệ.md",
     "docs/post/pass  haihabk.mdenc",
-    "docs/post/qui-tac-90-90-1.md",
-    "docs/post/Sức khoẻ.md",
-    "docs/post/suy niệm về viện ngủ sớm và dậy sớm.md",
-    "docs/post/Tập trung vào một điều duy nhất tại một thời điểm liệu có khó.md",
-    "docs/post/tap-trung-cao-mot-dieu-duy nhat.md",
     "docs/post/vidu.mdenc",
     "docs/post/Untitled 20240828 045457.mdenc",
     "docs/post/Untitled 20240828 045950.mdenc",
     "docs/post/Untitled 20240828 045926.mdenc",
-    "docs/post/Untitled 20240828 045157.mdenc",
-    "docs/post/Untitled 20240828 045323.mdenc",
-    "docs/post/Untitled 20240828 045234.mdenc"
+    "docs/post/Untitled 20240828 045157.mdenc"
   ]
 }

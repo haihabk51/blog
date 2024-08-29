@@ -4,5 +4,6 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "attachmentFolderPath": "docs/assets",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }

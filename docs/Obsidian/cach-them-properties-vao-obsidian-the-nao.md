@@ -1,14 +1,14 @@
 ---
+category: Obsidian/properties
 share: true
-filename: Cách thêm Properties vào Obsidian như thế nào?
+title: Cách thêm Properties vào Obsidian như thế nào?
 aliases:
   - Cách thêm Properties vào Obsidian như thế nào
 tags:
   - obsidian/properties
 date: 2024-08-28
 ---
-
-# Bạn Sẽ trả lời 2 câu hỏi sau
+# Cách Thêm Properties vào Obsidian
 ## Properties trong obsidian để làm gì
 **Properties trong Obsidian là gì**:  
     Trong Obsidian, _properties_ là các thuộc tính hoặc metadata giúp bạn quản lý và tổ chức nội dung ghi chú một cách có hệ thống hơn. Chúng cho phép bạn gán các thông tin bổ sung như ngày tạo, tác giả, hoặc các thẻ tuỳ chỉnh khác cho mỗi ghi chú. Điều này giúp dễ dàng tìm kiếm, phân loại và kết nối các ghi chú lại với nhau, tạo ra một mạng lưới thông tin liên kết chặt chẽ và logic hơn.
@@ -30,4 +30,4 @@ date: 2024-08-28
 > Nhấn tổ hợp phím Ctrl ; 
 
 > [!question] Sau khi thêm Các Properties và muốn đổi tên các thông tin ví dụ : author thành Author thì làm thế nào? Xem bài dưới
-> [[Doi-ten-cua-properties-trong-obsidian|Đổi tên của Properties trong Obsidian]]
+> [[Doi-ten-properties|Đổi tên của Properties trong Obsidian]]
