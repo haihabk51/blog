@@ -1,5 +1,5 @@
 ---
-catergories: Obsidian/properties
+catergory: Obsidian/properties
 share: true
 title: Đổi tên của Properties trong Obsidian
 aliases:
