@@ -1,5 +1,5 @@
 ---
-catergories: Obsidian/properties
+catergory: Obsidian/properties
 share: true
 title: Cách thêm Properties vào Obsidian như thế nào?
 aliases:
