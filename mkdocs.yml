@@ -20,7 +20,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
+      accent: deep-purple
       toggle:
         icon: fontawesome/solid/sun
         name: Switch to light mode
