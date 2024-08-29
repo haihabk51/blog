@@ -1,5 +1,5 @@
 ---
-title: Thêm properties vaod nhiều notes trong Obsidian
+title: Thêm properties vào nhiều notes trong Obsidian
 aliases:
   - Thêm đồng thời properties vào nhiều file trong obsidian
 tags:
@@ -16,3 +16,6 @@ category: Obsidian/properties
 
 ## Plugin cần cài : 
 ![](https://i.imgur.com/Ow9TjGN.png)
+## Chọn folder hoặc nhiều notes muốn thêm properties
+
+![](https://i.imgur.com/g8RpzXB.png)
