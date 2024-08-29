@@ -9,6 +9,7 @@ URL:
 Author: 
 image: https://i.imgur.com/JusW9dm.png
 share: true
+catergory: Obsidian
 ---
 # Quản Lý Dự Án và Tạo List Sách dựa vào Plugin Project
 
