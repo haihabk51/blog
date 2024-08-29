@@ -4,6 +4,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/brain
+    favicon:assets/img/haiha.png
   font:
     text: Open Sans
     code: Roboto Mono
