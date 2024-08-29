@@ -4,7 +4,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/brain
-    favicon: fontawesome/solid/brain
+    favicon: assets/img/haiha.png # Specify the path to your favicon image
   font:
     text: Open Sans
     code: Roboto Mono
@@ -30,7 +30,6 @@ features:
   - search.highlight
   - navigation.footer
 
-
 plugins:
   - search
   - autolinks
@@ -44,7 +43,6 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-
 
 markdown_extensions:
   - wikilinks

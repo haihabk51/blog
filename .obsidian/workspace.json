@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,6 +175,7 @@
   },
   "active": "6552c4023c913cb4",
   "lastOpenFiles": [
+    "docs/assets/img/haiha.png",
     "docs/Obsidian/quan-ly-du-an.md",
     "docs/Obsidian/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/Anki/Anki-mot-click.md",

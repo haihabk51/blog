@@ -5,7 +5,7 @@ title: Cách thêm Properties vào Obsidian như thế nào?
 aliases:
   - Cách thêm Properties vào Obsidian như thế nào
 tags:
-  - obsidian/properties
+  - obsidian_properties
 date: 2024-08-28
 ---
 # Cách Thêm Properties vào Obsidian
@@ -30,4 +30,8 @@ date: 2024-08-28
 > Nhấn tổ hợp phím Ctrl ; 
 
 > [!question] Sau khi thêm Các Properties và muốn đổi tên các thông tin ví dụ : author thành Author thì làm thế nào? Xem bài dưới
+<<<<<<< HEAD:docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md
 > [[Doi-ten-properties|Đổi tên của Properties trong Obsidian]]
+=======
+> [Đổi tên của Properties trong Obsidian](./Doi-ten-properties.md)
+>>>>>>> 3fd53699091525cb1a0b54a9a9b5a7959d08ad47:docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md
