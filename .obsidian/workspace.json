@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tags.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/tags.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/tags.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/tags.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "f0e07bc18fed15ba",
   "lastOpenFiles": [
+    "docs/tags.md",
     "docs/index.md",
     "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/VLog/Untitled.md",
     "docs/Obsidian/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "template/temp.md",
-    "docs/tags.md",
     "docs/Obsidian/Plugin-tray.md",
     "assets/meta/favicon.png",
     "assets/meta/brain-solid.png",

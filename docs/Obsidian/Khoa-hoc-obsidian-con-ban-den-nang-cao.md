@@ -7,7 +7,7 @@ date:
 share: true
 category: Obsidian
 ---
-Khoá học Obsidian từ cơ bản đến nâng cao (free)
+Khoá học Obsidian từ cơ bản đến nâng cao (free) ( link là medium- ở VN không đọc được, các bạn hãy cài VPN để đọc được báo Medium)
 
 Các bài viết này nội dung rất chi tiết sẽ giúp bạn nắm bắt mọi thứ về Obsidian một cách tiện lợi hơn so với việc phải xem video trên Youtube.
 Nội dung
@@ -18,4 +18,4 @@ Nội dung
 
 •	Cách sử dụng plugin như Dataview, Breadcrumbs, tách note, phân tích note
 
-👉️ https://bom.so/MAlyhA
+👉️ https://bom.so/MAlyhA 
