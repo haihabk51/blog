@@ -6,6 +6,7 @@
       {
         "id": "40445170080fd2a3",
         "type": "tabs",
+        "dimension": 54.54545454545454,
         "children": [
           {
             "id": "f0e07bc18fed15ba",
@@ -15,7 +16,7 @@
               "state": {
                 "file": "docs/Anki/Anki-mot-click.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -24,6 +25,7 @@
       {
         "id": "2e43d4305073c03a",
         "type": "tabs",
+        "dimension": 45.45454545454545,
         "children": [
           {
             "id": "ce93e97a763ce950",
