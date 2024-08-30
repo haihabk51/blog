@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/mkdocs.md",
+                "file": "docs/tags.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft/mkdocs.md",
+                "file": "docs/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft/mkdocs.md",
+                "file": "docs/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft/mkdocs.md"
+                "file": "docs/tags.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "ce93e97a763ce950",
   "lastOpenFiles": [
+    "draft/mkdocs.md",
     "docs/assets/images/favicon.png",
     "docs/assets/images",
     "docs/assets/New folder",
@@ -189,7 +190,6 @@
     "draft",
     "docs/Anki/Anki-mot-click.md",
     "docs/VLog/Mac Lover.md",
-    "draft/mkdocs.md",
     "docs/Obsidian/Plugin-must-have.md",
     "docs/index.md",
     "docs/tags.md",
@@ -204,7 +204,6 @@
     "assets/img/haiha.png",
     "assets/img/favicon.png",
     "assets/img",
-    "assets/haiha.png",
     "assets",
     "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/quan-ly-du-an.md",

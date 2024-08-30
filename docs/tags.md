@@ -1,5 +1,5 @@
 ---
-title: TAG-PAGE
+title: Tags Page
 aliases: 
 tags:
   - NoneTag
