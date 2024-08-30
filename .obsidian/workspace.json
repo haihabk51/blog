@@ -13,9 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Anki/Anki-mot-click.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e43d4305073c03a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce93e97a763ce950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/VLog/mkdocs.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Anki/Anki-mot-click.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Anki/Anki-mot-click.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Anki/Anki-mot-click.md"
               }
             }
           },
@@ -174,10 +192,13 @@
   },
   "active": "f0e07bc18fed15ba",
   "lastOpenFiles": [
-    "docs/tags.md",
+    "docs/VLog/mkdocs.md",
+    "docs/VLog/github-action.md",
+    "docs/Obsidian/Plugin-must-have.md",
+    "docs/VLog/Mac Lover.md",
     "docs/index.md",
+    "docs/tags.md",
     "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
-    "docs/VLog/Untitled.md",
     "docs/Obsidian/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "template/temp.md",
     "docs/Obsidian/Plugin-tray.md",
@@ -215,8 +236,6 @@
     "enveloppe",
     "docs/post/Mất ngủ.md",
     "docs/post/Tư duy nhanh và chậm.md",
-    "docs/post/các nền tảng số giúp kết nối hàng tỉ con người.md",
-    "docs/post/2024-00-đ.md",
     "docs/post/pass  haihabk.mdenc",
     "docs/post/vidu.mdenc"
   ]
