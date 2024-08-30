@@ -26,9 +26,6 @@ theme:
       toggle:
         icon: fontawesome/solid/sun
         name: Switch to light mode
-nav:
-  - Home: index.md
-  - Tags: Tags.md
   
 
 features:
