@@ -2,7 +2,8 @@
 title: Plugin Phải có
 aliases: 
 tags:
-  - NoneTag
+  - obsidian
+  - Plugin
 date: 
 share: true
 category: Obsidian

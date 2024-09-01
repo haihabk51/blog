@@ -3,6 +3,7 @@ title: Tổng hợp Properties trong Obsidian
 aliases: 
 tags:
   - obsidian
+  - MOC
 date: 
 share: true
 category: Obsidian/properties
