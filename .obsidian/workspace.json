@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/github-action.md",
+                "file": "template/draft/github-action.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft/github-action.md",
+                "file": "template/draft/github-action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft/github-action.md",
+                "file": "template/draft/github-action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft/github-action.md"
+                "file": "template/draft/github-action.md"
               }
             }
           },
@@ -172,24 +172,25 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "42272851b6c0030d",
+  "active": "ad7c9ebe4c9a1134",
   "lastOpenFiles": [
-    "draft/mkdocs.md",
-    "docs/Obsidian/quan-ly-du-an.md",
     "docs/Obsidian/properties/Properties.md",
+    "docs/index.md",
+    "template/draft/github-action.md",
+    "template/draft/mkdocs.md",
+    "docs/Obsidian/quan-ly-du-an.md",
     "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
     "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/assets/images/favicon.png",
     "docs/assets/images",
-    "draft",
+    "template/draft",
     "docs/VLog",
     "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/Obsidian/properties",
     "docs/Obsidian/Doi-ten-properties.md",
     "docs/Obsidian/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
-    "docs/index.md",
     "docs/post/Untitled 1.md",
     "docs/post/Untitled.md",
     "enveloppe/docs/Untitled.md",
@@ -206,7 +207,6 @@
     "docs/post/2024-00-đ.md",
     "docs/post/24h một ngày.md",
     "docs/post/CN Khắc kỷ.md",
-    "docs/post/ban-dat-gia-bao-nhieu.md",
     "docs/post/pass  haihabk.mdenc",
     "docs/post/vidu.mdenc",
     "docs/post/Untitled 20240828 045457.mdenc",

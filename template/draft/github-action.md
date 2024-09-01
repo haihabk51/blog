@@ -4,7 +4,7 @@ aliases:
 tags:
   - NoneTag
 date: 
-share: 
+share: false
 category:
 ---
 [github-action](https://github.com/squidfunk/mkdocs-material/blob/master/docs/publishing-your-site.md)
