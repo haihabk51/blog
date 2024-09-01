@@ -10,6 +10,6 @@ share: true
 category: Obsidian/properties
 ---
 # Properties là gì
-1️⃣ [cach-them-properties-vao-obsidian-the-nao|Cách thêm Properties vào Obsidian như thế nào](cach-them-properties-vao-obsidian-the-nao.md)
+1️⃣ [cach-them-properties-vao-obsidian-the-nao|Cách thêm Properties vào Obsidian như thế nào](/cach-them-properties-vao-obsidian-the-nao.md)
 2️⃣ [[Them-dong-thoi-properties vao-nhieu-file-obsidian|Thêm đồng thời properties vào nhiều file trong obsidian]]
 3️⃣ [[Doi-ten-nhieu-properties|Đổi tên đồng thời nhiều Properties trong Obsidian]]
