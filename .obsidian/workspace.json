@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/draft/github-action.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/draft/github-action.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/draft/github-action.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/draft/github-action.md"
+                "file": "docs/Obsidian/properties/Properties.md"
               }
             }
           },
@@ -172,15 +172,15 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "ad7c9ebe4c9a1134",
+  "active": "42272851b6c0030d",
   "lastOpenFiles": [
-    "docs/Obsidian/properties/Properties.md",
-    "docs/index.md",
-    "template/draft/github-action.md",
-    "template/draft/mkdocs.md",
-    "docs/Obsidian/quan-ly-du-an.md",
     "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
     "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
+    "docs/index.md",
+    "template/draft/github-action.md",
+    "docs/Obsidian/properties/Properties.md",
+    "template/draft/mkdocs.md",
+    "docs/Obsidian/quan-ly-du-an.md",
     "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/assets/images/favicon.png",
