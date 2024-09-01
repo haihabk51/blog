@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/Obsidian/properties/Properties.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
                 "mode": "source",
                 "source": true
               }
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 472.5
   },
   "right": {
     "id": "485d0187d04d8acd",
@@ -190,14 +190,14 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "3b8bb24fdb3d875b",
+  "active": "42272851b6c0030d",
   "lastOpenFiles": [
-    "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
+    "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/properties/Properties.md",
+    "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/Obsidian/Plugin-must-have.md",
     "docs/Obsidian/Plugin-tray.md",
     "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
-    "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/index.md",
     "template/draft/github-action.md",
     "template/draft/mkdocs.md",
