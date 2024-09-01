@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "70ba9d5418c23bb2",
+        "id": "79c0a2aa29537a52",
         "type": "tabs",
         "children": [
           {
-            "id": "a915e01eabe0710b",
+            "id": "3b8bb24fdb3d875b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,11 +190,12 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "a915e01eabe0710b",
+  "active": "3b8bb24fdb3d875b",
   "lastOpenFiles": [
+    "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
+    "docs/Obsidian/properties/Properties.md",
     "docs/Obsidian/Plugin-must-have.md",
     "docs/Obsidian/Plugin-tray.md",
-    "docs/Obsidian/properties/Properties.md",
     "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
     "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/index.md",
@@ -207,7 +208,6 @@
     "docs/assets/images",
     "template/draft",
     "docs/VLog",
-    "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/Obsidian/properties",
     "docs/Obsidian/Doi-ten-properties.md",
     "docs/Obsidian/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
