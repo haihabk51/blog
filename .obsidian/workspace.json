@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -193,11 +193,14 @@
   },
   "active": "f0b76dc2e7785942",
   "lastOpenFiles": [
+    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+    "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
+    "docs/Obsidian/Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/Obsidian/properties/Properties.md",
     "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
     "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
-    "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
     "docs/VLog/Mac Lover.md",
     "docs/Anki/Tao-the-anki-voi-file-Excel.md",
     "docs/Anki/Anki with AI",
@@ -207,7 +210,6 @@
     "template/draft/github-action.md",
     "template/draft/mkdocs.md",
     "docs/Obsidian/quan-ly-du-an.md",
-    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
     "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/assets/images/favicon.png",
     "docs/assets/images",
@@ -223,10 +225,8 @@
     "enveloppe/docs/Đổi tên của Properties trong Obsidian.md",
     "enveloppe/docs/index.md",
     "enveloppe/docs/VÍ DỤ.md",
-    "enveloppe/docs/tags.md",
     "enveloppe/docs",
     "enveloppe",
-    "docs/post/Mất ngủ.md",
     "docs/post/pass  haihabk.mdenc",
     "docs/post/vidu.mdenc",
     "docs/post/Untitled 20240828 045457.mdenc"
