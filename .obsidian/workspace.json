@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "dbc34d7a0bcc2573",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "42272851b6c0030d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "554c292e38f276ca",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "2c791798687e052c",

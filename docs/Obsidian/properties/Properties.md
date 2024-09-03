@@ -11,4 +11,5 @@ category: Obsidian/properties
 ---
 # Tổng hợp các vấn đề về Properties trong Obsidian.
 [Doi-ten-nhieu-properties](Doi-ten-nhieu-properties.md)
+
 [Them-dong-thoi-properties vao-nhieu-file-obsidian](Them-dong-thoi-properties vao-nhieu-file-obsidian.md)
