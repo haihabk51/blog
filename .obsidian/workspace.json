@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "5958e79c6784596b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b76dc2e7785942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,9 +193,9 @@
   },
   "active": "2c791798687e052c",
   "lastOpenFiles": [
-    "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
-    "docs/Obsidian/properties/Properties.md",
     "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
+    "docs/Obsidian/properties/Properties.md",
+    "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
     "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
     "docs/VLog/Mac Lover.md",
