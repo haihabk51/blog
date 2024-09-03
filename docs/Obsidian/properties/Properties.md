@@ -10,6 +10,9 @@ share: true
 category: Obsidian/properties
 ---
 # Tổng hợp các vấn đề về Properties trong Obsidian.
+
 [Đổi tên nhiều Properties trong Obsidian](Doi-ten-nhieu-properties.md)
 
 [Thêm đồng thời nhiều properties vào nhiều notes](Them-dong-thoi-properties vao-nhieu-file-obsidian.md)
+
+[Đổi tên của Properties trong Obsidian](Doi-ten-nhieu-properties.md)
