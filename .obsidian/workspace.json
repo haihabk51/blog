@@ -33,9 +33,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "485d0187d04d8acd",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md"
+                "file": "docs/Obsidian/properties/Properties.md"
               }
             }
           },
@@ -196,16 +195,16 @@
   },
   "active": "2c791798687e052c",
   "lastOpenFiles": [
-    "docs/VLog/Mac Lover.md",
-    "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
-    "docs/Anki/Tao-the-anki-voi-file-Excel.md",
+    "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
     "docs/Obsidian/properties/Properties.md",
-    "docs/Anki/Anki with AI",
     "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
+    "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
+    "docs/VLog/Mac Lover.md",
+    "docs/Anki/Tao-the-anki-voi-file-Excel.md",
+    "docs/Anki/Anki with AI",
     "docs/Obsidian/Plugin-must-have.md",
     "docs/Obsidian/Plugin-tray.md",
-    "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
     "docs/index.md",
     "template/draft/github-action.md",
     "template/draft/mkdocs.md",
