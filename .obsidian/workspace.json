@@ -6,6 +6,7 @@
       {
         "id": "dbc34d7a0bcc2573",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "42272851b6c0030d",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,18 +23,19 @@
         ]
       },
       {
-        "id": "79c0a2aa29537a52",
+        "id": "554c292e38f276ca",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "3b8bb24fdb3d875b",
+            "id": "2c791798687e052c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
+                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -95,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "485d0187d04d8acd",
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md"
+                "file": "docs/Obsidian/Paste-URL-into -Selection -Plugin.md"
               }
             }
           },
@@ -172,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +194,14 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "42272851b6c0030d",
+  "active": "2c791798687e052c",
   "lastOpenFiles": [
-    "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
+    "docs/VLog/Mac Lover.md",
+    "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
+    "docs/Anki/Tao-the-anki-voi-file-Excel.md",
     "docs/Obsidian/properties/Properties.md",
+    "docs/Anki/Anki with AI",
+    "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/Obsidian/Plugin-must-have.md",
     "docs/Obsidian/Plugin-tray.md",
@@ -222,12 +230,8 @@
     "enveloppe/docs",
     "enveloppe",
     "docs/post/Mất ngủ.md",
-    "docs/post/Tư duy nhanh và chậm.md",
-    "docs/post/các nền tảng số giúp kết nối hàng tỉ con người.md",
-    "docs/post/2024-00-đ.md",
     "docs/post/pass  haihabk.mdenc",
     "docs/post/vidu.mdenc",
-    "docs/post/Untitled 20240828 045457.mdenc",
-    "docs/post/Untitled 20240828 045950.mdenc"
+    "docs/post/Untitled 20240828 045457.mdenc"
   ]
 }
