@@ -32,13 +32,18 @@ features:
   - search.suggest
   - search.highlight
   - navigation.footer
+  - content.action.view
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
 
 plugins:
-  - obsidian-interactive-graph
   - search
-  - embed_file
-  - obsidian-bridge
   - callouts
+  - obsidian-interactive-graph
+  - obsidian-support
+  - obsidian-bridge
+  - glightbox
   - blogging:
       dirs:
         - post
