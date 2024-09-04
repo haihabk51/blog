@@ -14,7 +14,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/brain
-    favicon: assets/images/favicon.png  
+    favicon: ObsidianVault/assets/images/favicon.png  
     previous: fontawesome/solid/angle-left  # Thêm biểu tượng điều hướng "previous"
     next: fontawesome/solid/angle-right     # Thêm biểu tượng điều hướng "next"
   font:
@@ -51,9 +51,10 @@ plugins:
   - obsidian-interactive-graph
   - search
   - autolinks
-  - embed_file
+  #- embed_file
   - callouts
   - obsidian-bridge
+  - obsidian-support
   - glightbox
   - blogging:
       dirs:
