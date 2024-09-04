@@ -55,15 +55,8 @@ plugins:
   - obsidian-interactive-graph
   - obsidian-support
   - obsidian-bridge
-  - blogging:
-      dirs:
-        - post
-      template: overrides/custom-blog.html
-      features:
-        tags:
-          index_page: tags.md
-          insert: bottom
-      time_format: ' %d-%m-%Y '
+  - tags: 
+      tags_file: tags.md
 
 markdown_extensions:
   - admonition
