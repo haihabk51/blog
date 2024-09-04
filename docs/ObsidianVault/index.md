@@ -13,4 +13,4 @@ category: docs
 ![](https://i.imgur.com/d8aJSIo.png)
 
 
-[[tags]]
+![[tags]]
