@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+                "file": "docs/VLog/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+                "file": "docs/VLog/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+                "file": "docs/VLog/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md"
+                "file": "docs/VLog/Untitled.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "2c791798687e052c",
   "lastOpenFiles": [
+    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
     "docs/Obsidian/properties/Properties.md",
     "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "docs/VLog/Untitled.md",
@@ -204,7 +205,6 @@
     "docs/Obsidian/properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/Obsidian/properties/Obsidian-Doi-ten-nhieu-properties.md",
     "docs/Obsidian/Obsidian-Dat-pass-file-trong-obsidian.md",
-    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
     "docs/VLog/Mac Lover.md",
     "docs/Anki/Tao-the-anki-voi-file-Excel.md",
     "docs/Anki/Anki with AI",
