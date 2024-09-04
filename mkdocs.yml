@@ -35,6 +35,7 @@ features:
 
 plugins:
   - search
+  - embed_file
   - autolinks
   - callouts
   - blogging:
