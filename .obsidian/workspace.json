@@ -11,12 +11,8 @@
             "id": "2c791798687e052c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +183,14 @@
   },
   "active": "ad7c9ebe4c9a1134",
   "lastOpenFiles": [
+    "docs/ObsidianVault/VLog/Mac Lover.md",
+    "docs/ObsidianVault/VLog/Su-hoc-tam-tu-cha-me.md",
+    "docs/ObsidianVault/VLog/Untitled.md",
+    "docs/ObsidianVault/VLog",
+    "docs/ObsidianVault/Anki/Tao-the-anki-voi-file-Excel.md",
+    "docs/ObsidianVault/Anki/Anki-mot-click.md",
+    "docs/ObsidianVault/Anki/Anki with AI",
+    "docs/ObsidianVault/Anki",
     "docs/ObsidianVault/Obsidian/Tạo Website với Mkdocs/02.md",
     "docs/ObsidianVault/Obsidian/Tạo Website với Mkdocs/01..md",
     "docs/ObsidianVault/Obsidian/properties/Properties.md",
@@ -217,14 +219,6 @@
     "docs/ObsidianVault/assets/javascripts/interactive_graph.js",
     "docs/ObsidianVault/assets/javascripts",
     "docs/ObsidianVault/assets/stylesheets/interactive_graph.css",
-    "docs/ObsidianVault/assets/stylesheets",
-    "docs/ObsidianVault/assets",
-    "docs/ObsidianVault/New folder",
-    "docs/Obsidian/Tạo Website với Mkdocs/01..md",
-    "docs/VLog/Untitled.md",
-    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
-    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
-    "docs/Obsidian/properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
     "docs/assets/images/favicon.png"
   ]
 }
