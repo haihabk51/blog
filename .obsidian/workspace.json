@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "554c292e38f276ca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c791798687e052c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/Untitled.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5958e79c6784596b",
         "type": "tabs",
         "children": [
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Untitled.md"
+                "file": "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md"
               }
             }
           },
@@ -191,16 +173,16 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "2c791798687e052c",
+  "active": "f0b76dc2e7785942",
   "lastOpenFiles": [
+    "docs/VLog/Untitled.md",
+    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "docs/assets/embed_link.css",
     "docs/assets/New Text Document.txt",
     "overrides/main.html",
     "overrides/New Text Document.txt",
     "docs/VLog/Su-hoc-tam-tu-cha-me.md",
     "docs/Obsidian/properties/Properties.md",
-    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
-    "docs/VLog/Untitled.md",
     "docs/Obsidian/Obsidian-quan-ly-du-an.md",
     "docs/Obsidian/Obsidian-Plugin-tray.md",
     "docs/Obsidian/Obsidian-Plugin-must-have.md",
@@ -228,7 +210,6 @@
     "enveloppe/docs/Untitled.md",
     "enveloppe/docs/Đặt Password cho một file trong Obsidian.md",
     "enveloppe/docs/Đổi tên của Properties trong Obsidian.md",
-    "enveloppe/docs",
-    "enveloppe"
+    "enveloppe/docs"
   ]
 }
