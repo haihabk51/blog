@@ -37,7 +37,6 @@ plugins:
   - search
   - autolinks
   - callouts
-  - embed_file
   - blogging:
       dirs:
         - post

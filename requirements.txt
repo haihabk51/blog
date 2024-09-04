@@ -2,4 +2,4 @@ mkdocs-material
 mkdocs-blogging-plugin
 mkdocs-callouts
 mkdocs-autolinks-plugin
-mkdocs-embed-file-plugin
+mkdocs-embed-file-plugins
