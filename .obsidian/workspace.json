@@ -187,8 +187,9 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "ad7c9ebe4c9a1134",
+  "active": "2c791798687e052c",
   "lastOpenFiles": [
+    "setup.py",
     "docs/ObsidianVault/tags.md",
     "docs/ObsidianVault/index.md",
     "docs/ObsidianVault/References.md",
@@ -231,7 +232,6 @@
     "docs/ObsidianVault/Obsidian/Tạo Website với Mkdocs/02.md",
     "docs/ObsidianVault/Obsidian/Tạo Website với Mkdocs/01..md",
     "docs/ObsidianVault/Obsidian/properties/Properties.md",
-    "docs/ObsidianVault/Obsidian/properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
-    "docs/ObsidianVault/Obsidian/properties/Obsidian-Doi-ten-nhieu-properties.md"
+    "docs/ObsidianVault/Obsidian/properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md"
   ]
 }
