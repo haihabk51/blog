@@ -1,5 +1,5 @@
 site_name: "HAIHA'S BLOG"
-docs_dir: ./docs/
+docs_dir: ./docs/ObsidianVault/
 site_url: https://haihabk51.github.io/blog/
 
 site_description: HAIHA'S BLOG
@@ -27,14 +27,14 @@ theme:
       primary: deep-purple
       accent: deep-purple
       toggle:
-        icon: fontawesome/solid/moon
+        icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep-purple
       accent: indigo
       toggle:
-        icon: fontawesome/solid/sun
+        icon: material/weather-night
         name: Switch to light mode
   
 
@@ -48,11 +48,11 @@ features:
   - content.code.select
 
 plugins:
+  - obsidian-interactive-graph
   - search
+  - autolinks
   - embed_file
   - callouts
-  - obsidian-interactive-graph
-  - obsidian-support
   - obsidian-bridge
   - blogging:
       dirs:
@@ -63,7 +63,6 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-
 markdown_extensions:
   - admonition
   - pymdownx.details
