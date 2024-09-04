@@ -43,7 +43,6 @@ plugins:
   - obsidian-interactive-graph
   - obsidian-support
   - obsidian-bridge
-  - glightbox
   - blogging:
       dirs:
         - post
