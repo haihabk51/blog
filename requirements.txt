@@ -6,3 +6,4 @@ mkdocs-embed-file-plugins
 mkdocs-obsidian-bridge
 mkdocs-obsidian-interactive-graph-plugin
 mkdocs-obsidian-support-plugin
+overrides
