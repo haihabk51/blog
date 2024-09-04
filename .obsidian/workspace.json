@@ -11,8 +11,12 @@
             "id": "2c791798687e052c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/ObsidianVault/index.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/ObsidianVault/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/ObsidianVault/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md"
+                "file": "docs/ObsidianVault/index.md"
               }
             }
           },
@@ -181,8 +187,9 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "ad7c9ebe4c9a1134",
+  "active": "2c791798687e052c",
   "lastOpenFiles": [
+    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
     "stylesheets/interactive_graph.css",
     "stylesheets/extra.css",
     "stylesheets",
@@ -199,7 +206,6 @@
     "docs/ObsidianVault/assets/assets/images/favicon.png",
     "docs/ObsidianVault/assets/assets/meta",
     "docs/ObsidianVault/assets/assets/images",
-    "docs/ObsidianVault/assets/assets",
     "docs/assets/images/favicon.png",
     "docs/assets/meta/brain-solid.png",
     "docs/ObsidianVault/CAM16TEST3/R/CAM16TEST3R3.md",
