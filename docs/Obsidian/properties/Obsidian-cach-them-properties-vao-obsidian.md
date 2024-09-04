@@ -31,5 +31,5 @@ date: 2024-08-28
 
 > [!question] Sau khi thêm Các Properties và muốn đổi tên các thông tin ví dụ : author thành Author thì làm thế nào? Xem bài dưới
 
- [Đổi tên của Properties trong Obsidian](Doi-ten-nhieu-properties.md)
+ [Đổi tên của Properties trong Obsidian](Obsidian-Doi-ten-nhieu-properties.md)
 

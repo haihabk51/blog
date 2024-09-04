@@ -11,9 +11,17 @@ category: Obsidian/properties
 ---
 # Tổng hợp các vấn đề về Properties trong Obsidian.
 
-## [Cách thêm Properties vào một Note trong obsidian](cach-them-properties-vao-obsidian-the-nao)
+## [Thêm properties vào một notes trong obsidian](Obsidian-cach-them-properties-vao-obsidian.md)
 
-## [Đổi tên nhiều Properties trong Obsidian](Doi-ten-nhieu-properties.md)
+## [Đổi tên nhiều Properties trong Obsidian](Obsidian-Doi-ten-nhieu-properties.md)
 
-## [Thêm đồng thời nhiều properties vào nhiều notes](Them-dong-thoi-properties vao-nhieu-file-obsidian.md)
+## [Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian](Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md)
 
+
+
+
+```dataview
+TABLE status, file.ext AS type
+     WHERE contains(lower(file.name), "obsidian")
+    SORT status ASC
+```

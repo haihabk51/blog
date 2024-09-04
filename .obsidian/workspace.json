@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
+                "file": "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
                 "mode": "source",
                 "source": true
               }
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 498.5
   },
   "right": {
     "id": "485d0187d04d8acd",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md"
+                "file": "docs/Obsidian/properties/Properties.md"
               }
             }
           },
@@ -193,23 +193,24 @@
   },
   "active": "2c791798687e052c",
   "lastOpenFiles": [
-    "docs/Obsidian/properties/cach-them-properties-vao-obsidian-the-nao.md",
-    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
-    "docs/Obsidian/Paste-URL-into -Selection -Plugin.md",
-    "docs/Obsidian/Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
-    "docs/Obsidian/Dat-pass-file-trong-obsidian.md",
+    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "docs/Obsidian/properties/Properties.md",
-    "docs/Obsidian/properties/Doi-ten-nhieu-properties.md",
-    "docs/Obsidian/properties/Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
+    "docs/VLog/Untitled.md",
+    "docs/Obsidian/Obsidian-quan-ly-du-an.md",
+    "docs/Obsidian/Obsidian-Plugin-tray.md",
+    "docs/Obsidian/Obsidian-Plugin-must-have.md",
+    "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
+    "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+    "docs/Obsidian/properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
+    "docs/Obsidian/properties/Obsidian-Doi-ten-nhieu-properties.md",
+    "docs/Obsidian/Obsidian-Dat-pass-file-trong-obsidian.md",
+    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
     "docs/VLog/Mac Lover.md",
     "docs/Anki/Tao-the-anki-voi-file-Excel.md",
     "docs/Anki/Anki with AI",
-    "docs/Obsidian/Plugin-must-have.md",
-    "docs/Obsidian/Plugin-tray.md",
     "docs/index.md",
     "template/draft/github-action.md",
     "template/draft/mkdocs.md",
-    "docs/Obsidian/quan-ly-du-an.md",
     "docs/Obsidian/cach-them-properties-vao-obsidian-the-nao.md",
     "docs/assets/images/favicon.png",
     "docs/assets/images",
@@ -224,7 +225,6 @@
     "enveloppe/docs/Đặt Password cho một file trong Obsidian.md",
     "enveloppe/docs/Đổi tên của Properties trong Obsidian.md",
     "enveloppe/docs/index.md",
-    "enveloppe/docs/VÍ DỤ.md",
     "enveloppe/docs",
     "enveloppe",
     "docs/post/pass  haihabk.mdenc",
