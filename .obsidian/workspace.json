@@ -183,6 +183,13 @@
   },
   "active": "ad7c9ebe4c9a1134",
   "lastOpenFiles": [
+    "docs/stylesheets/extra.css",
+    "docs/assets/images/favicon.png",
+    "docs/assets/images",
+    "docs/assets/css/embed_link.css",
+    "docs/assets/css",
+    "docs/assets/meta/brain-solid.png",
+    "docs/assets/meta",
     "docs/ObsidianVault/assets/stylesheets/extra.css",
     "docs/ObsidianVault/assets/meta/brain-solid.png",
     "docs/ObsidianVault/assets/meta",
@@ -198,14 +205,9 @@
     "docs/ObsidianVault/CAM16TEST3/L/CAM16TEST3-LP3.md",
     "docs/ObsidianVault/CAM16TEST3/L/CAM16TEST3-LP2.md",
     "docs/ObsidianVault/CAM16TEST3/L/CAM16TEST3-LP1.md",
-    "docs/ObsidianVault/CAM16TEST3/L",
-    "docs/ObsidianVault/CAM16TEST3/Audio_Test3_Cam16",
-    "docs/ObsidianVault/CAM16TEST3/cam16test3.xlsm",
-    "docs/ObsidianVault/CAM16TEST3",
     "docs/ObsidianVault/VLog/Mac Lover.md",
     "docs/ObsidianVault/VLog/Su-hoc-tam-tu-cha-me.md",
     "docs/ObsidianVault/VLog/Untitled.md",
-    "docs/ObsidianVault/VLog",
     "docs/ObsidianVault/Anki/Tao-the-anki-voi-file-Excel.md",
     "docs/ObsidianVault/Anki/Anki-mot-click.md",
     "docs/ObsidianVault/Obsidian/Tạo Website với Mkdocs/02.md",
@@ -220,7 +222,6 @@
     "docs/ObsidianVault/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
     "docs/ObsidianVault/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
     "docs/ObsidianVault/Obsidian/Obsidian-Dat-pass-file-trong-obsidian.md",
-    "docs/ObsidianVault/assets/test.md",
-    "docs/assets/images/favicon.png"
+    "docs/ObsidianVault/assets/test.md"
   ]
 }
