@@ -53,7 +53,6 @@ plugins:
   - embed_file
   - callouts
   - obsidian-interactive-graph
-  - obsidian-support
   - obsidian-bridge
   - blogging:
       dirs:
