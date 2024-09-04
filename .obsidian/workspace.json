@@ -193,6 +193,7 @@
   },
   "active": "f0b76dc2e7785942",
   "lastOpenFiles": [
+    "Dockerfile",
     "setup.py",
     "obsidian_interactive_graph/__init__.py",
     "obsidian_interactive_graph/plugin.py",
@@ -203,7 +204,6 @@
     "docs/assets/javascripts",
     "assets/stylesheets/interactive_graph.css",
     "assets/stylesheets",
-    "assets/javascripts/interactive_graph.js",
     "docs/Obsidian/Tạo Website với Mkdocs/01..md",
     "docs/VLog/Untitled.md",
     "docs/Obsidian/properties/Properties.md",
