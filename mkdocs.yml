@@ -49,6 +49,7 @@ features:
 
 plugins:
   - search
+  - embed_file
   - callouts
   - obsidian-interactive-graph
   - obsidian-support
@@ -95,7 +96,7 @@ markdown_extensions:
 
 extra_css:
   - assets/stylesheets/interactive_graph.css
-
+  - assets/css/embed_link.css
 extra_javascript:
   - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js

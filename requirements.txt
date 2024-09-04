@@ -1,6 +1,7 @@
 mkdocs-material
 mkdocs-blogging-plugin
 mkdocs-callouts
+mkdocs-embed-file
 mkdocs-autolinks-plugin
 mkdocs-embed-file-plugins
 mkdocs-obsidian-bridge
