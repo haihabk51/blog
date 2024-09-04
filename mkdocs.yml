@@ -50,7 +50,7 @@ features:
 plugins:
   - obsidian-interactive-graph
   - search
-  - autolinks
+  #- autolinks
   - embed_file
   - callouts
   - obsidian-bridge
