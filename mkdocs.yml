@@ -1,5 +1,4 @@
 site_name: HAIHA'S BLOG
-docs_dir: ./docs/
 site_url: https://haihabk51.github.io/blog/
 theme:
   name: material
@@ -51,7 +50,6 @@ plugins:
       time_format: ' %d-%m-%Y '
 
 markdown_extensions:
-  - wikilinks
   - admonition
   - pymdownx.details
   - pymdownx.superfences
