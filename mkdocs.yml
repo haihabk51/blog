@@ -105,6 +105,7 @@ extra_javascript:
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
   - assets/javascripts/interactive_graph.js
   - assets/javascripts/obsidian_tags.js
+
 extra:
   social:
     - icon: fontawesome/brands/youtube
