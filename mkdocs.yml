@@ -48,11 +48,11 @@ features:
   - content.code.select
 
 plugins:
+  - obsidian-interactive-graph
   - search
   - autolinks
   - embed_file
   - callouts
-  - obsidian-interactive-graph
   - obsidian-bridge
   - blogging:
       dirs:
