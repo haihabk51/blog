@@ -54,6 +54,7 @@ plugins:
   - embed_file
   - callouts
   - obsidian-bridge
+  - glightbox
   - blogging:
       dirs:
         - post
