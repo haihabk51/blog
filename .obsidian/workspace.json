@@ -187,12 +187,14 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "2c791798687e052c",
+  "active": "ad7c9ebe4c9a1134",
   "lastOpenFiles": [
+    "docs/ObsidianVault/tags.md",
+    "docs/ObsidianVault/index.md",
     "docs/ObsidianVault/References.md",
     "docs/ObsidianVault/Installation.md",
-    "docs/ObsidianVault/Docker.md",
     "docs/ObsidianVault/Concept.md",
+    "docs/ObsidianVault/Docker.md",
     "docs/ObsidianVault/Usage/Setup.md",
     "docs/ObsidianVault/Usage/ECharts.md",
     "docs/ObsidianVault/Usage",
@@ -208,8 +210,6 @@
     "assets/images/favicon.png",
     "assets/images",
     "docs/VLog/Su-hoc-tam-tu-cha-me.md",
-    "docs/ObsidianVault/tags.md",
-    "docs/ObsidianVault/index.md",
     "docs/ObsidianVault/assets/meta/brain-solid.png",
     "docs/ObsidianVault/assets/images/favicon.png",
     "docs/ObsidianVault/assets/assets/meta/brain-solid.png",
