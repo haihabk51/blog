@@ -96,6 +96,7 @@ markdown_extensions:
       permalink: true
 
 extra_css:
+  - assets/stylesheets/obsidian_tags.css
   - assets/stylesheets/interactive_graph.css
   - assets/stylesheets/embed_link.css
 
@@ -103,7 +104,7 @@ extra_javascript:
   - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
   - assets/javascripts/interactive_graph.js
-
+  - assets/javascripts/obsidian_tags.js
 extra:
   social:
     - icon: fontawesome/brands/youtube
