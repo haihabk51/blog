@@ -55,7 +55,7 @@ plugins:
   - obsidian-interactive-graph
   - obsidian-support
   - obsidian-bridge
- - blogging:
+  - blogging:
       dirs:
         - post
       template: overrides/custom-blog.html
