@@ -14,7 +14,7 @@ TABLE status, file.ext AS type
     SORT status ASC
 ```
 
-[[Obsidian-quan-ly-du-an]]
+![[Obsidian-quan-ly-du-an]]
 
 2 
 [ghgh](Obsidian-quan-ly-du-an.md)
