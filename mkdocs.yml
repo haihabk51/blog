@@ -35,10 +35,10 @@ features:
   - navigation.footer
 
 plugins:
+  - obsidian-interactive-graph
   - search
   - embed_file
   - obsidian-bridge
-  - obsidian-interactive-graph
   - autolinks
   - callouts
   - blogging:
