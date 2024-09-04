@@ -37,8 +37,7 @@ plugins:
   - search
   - embed_file
   - obsidian-bridge
-  - obsidian-support
-  - obsidian_interactive_graph
+  - obsidian-interactive-graph
   - autolinks
   - callouts
   - blogging:
