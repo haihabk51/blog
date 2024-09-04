@@ -49,6 +49,7 @@ features:
 
 plugins:
   - search
+  - autolinks
   - embed_file
   - callouts
   - obsidian-interactive-graph
