@@ -84,12 +84,12 @@ markdown_extensions:
       permalink: true
 
 extra_css:
-  - assets/stylesheets/interactive_graph.css
+  - docs/assets/stylesheets/interactive_graph.css
 
 extra_javascript:
   - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
-  - assets/javascripts/interactive_graph.js
+  - docs/assets/javascripts/interactive_graph.js
 
 extra:
   social:
