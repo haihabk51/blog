@@ -1,5 +1,15 @@
-site_name: HAIHA'S BLOG
+site_name: "HAIHA'S BLOG"
+docs_dir: ./docs/
 site_url: https://haihabk51.github.io/blog/
+
+site_description: HAIHA'S BLOG
+site_author: haihabk51
+
+repo_url: https://github.com/haihabk51/blog/
+edit_uri: 'blob/main/docs/'
+edit_uri_template: 'blob/main/docs/{path}'
+
+
 theme:
   name: material
   icon:
