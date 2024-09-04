@@ -15,3 +15,6 @@ TABLE status, file.ext AS type
 ```
 
 [[Obsidian-quan-ly-du-an]]
+
+2 
+[ghgh](Obsidian-quan-ly-du-an.md)
