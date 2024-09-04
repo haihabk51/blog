@@ -3,3 +3,4 @@ mkdocs-blogging-plugin
 mkdocs-callouts
 mkdocs-autolinks-plugin
 mkdocs-embed-file-plugins
+mkdocs-obsidian-bridge

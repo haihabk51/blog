@@ -36,6 +36,7 @@ features:
 plugins:
   - search
   - embed_file
+  - obsidian-bridge
   - autolinks
   - callouts
   - blogging:
