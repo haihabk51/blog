@@ -15,4 +15,4 @@ category: docs
 
 ![[tags]]
 
- test [[tags]]
+ test [[te|tags]]
