@@ -51,10 +51,10 @@ plugins:
   - obsidian-interactive-graph
   - search
   - autolinks
-  #- embed_file
+  - embed_file
   - callouts
   - obsidian-bridge
-  - obsidian-support
+  #- obsidian-support
   - glightbox
   - blogging:
       dirs:
