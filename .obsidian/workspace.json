@@ -189,6 +189,8 @@
   },
   "active": "2c791798687e052c",
   "lastOpenFiles": [
+    "docs/ObsidianVault/assets/stylesheets/obsidian_tags.css",
+    "docs/ObsidianVault/assets/javascripts/obsidian_tags.js",
     "overrides/partials/comments.html",
     "overrides/partials",
     "overrides/main.html",
@@ -198,8 +200,6 @@
     "docs/ObsidianVault/overrides/partials",
     "docs/ObsidianVault/overrides/main.html",
     "docs/ObsidianVault/overrides/custom-blog.html",
-    "docs/ObsidianVault/overrides",
-    "docs/overrides/partials/comments.html",
     "docs/VLog/Su-hoc-tam-tu-cha-me.md",
     "docs/ObsidianVault/tags.md",
     "docs/ObsidianVault/index.md",
