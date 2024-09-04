@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/Obsidian/Tạo Website với Mkdocs/01..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0412f365354ebc76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70333873b8f395ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Obsidian/Tạo Website với Mkdocs/01..md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:NoneTag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/Obsidian/Tạo Website với Mkdocs/01..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/Obsidian/Tạo Website với Mkdocs/01..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Untitled.md"
+                "file": "docs/Obsidian/Tạo Website với Mkdocs/01..md"
               }
             }
           },
@@ -175,14 +194,16 @@
   },
   "active": "f0b76dc2e7785942",
   "lastOpenFiles": [
-    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "docs/VLog/Untitled.md",
+    "docs/Obsidian/properties/Properties.md",
+    "docs/Obsidian/Tạo Website với Mkdocs/01..md",
+    "docs/Obsidian/Tạo Website với Mkdocs",
+    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "docs/assets/embed_link.css",
     "docs/assets/New Text Document.txt",
     "overrides/main.html",
     "overrides/New Text Document.txt",
     "docs/VLog/Su-hoc-tam-tu-cha-me.md",
-    "docs/Obsidian/properties/Properties.md",
     "docs/Obsidian/Obsidian-quan-ly-du-an.md",
     "docs/Obsidian/Obsidian-Plugin-tray.md",
     "docs/Obsidian/Obsidian-Plugin-must-have.md",
@@ -209,7 +230,6 @@
     "docs/post/Untitled.md",
     "enveloppe/docs/Untitled.md",
     "enveloppe/docs/Đặt Password cho một file trong Obsidian.md",
-    "enveloppe/docs/Đổi tên của Properties trong Obsidian.md",
-    "enveloppe/docs"
+    "enveloppe/docs/Đổi tên của Properties trong Obsidian.md"
   ]
 }
