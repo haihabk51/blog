@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md",
+                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/properties/Properties.md"
+                "file": "docs/VLog/Su-hoc-tam-tu-cha-me.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "2c791798687e052c",
   "lastOpenFiles": [
-    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "docs/Obsidian/properties/Properties.md",
+    "docs/Obsidian/properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "docs/VLog/Untitled.md",
     "docs/Obsidian/Obsidian-quan-ly-du-an.md",
     "docs/Obsidian/Obsidian-Plugin-tray.md",
