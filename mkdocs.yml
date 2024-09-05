@@ -11,8 +11,8 @@ repo_url: https://github.com/haihabk51/blog/
 theme:
   name: material
   icon:
-    logo: assets/images/logo.png
-    favicon: assets/images/favicon.png  
+    logo: assets/logo.png
+    favicon: assets/favicon.png  
     previous: fontawesome/solid/angle-left  # Thêm biểu tượng điều hướng "previous"
     next: fontawesome/solid/angle-right     # Thêm biểu tượng điều hướng "next"
   font:
