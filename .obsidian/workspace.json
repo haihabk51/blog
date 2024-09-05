@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/temp.md",
+                "file": "template/draft/github-action.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/temp.md",
+                "file": "template/draft/github-action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/temp.md",
+                "file": "template/draft/github-action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/temp.md"
+                "file": "template/draft/github-action.md"
               }
             }
           },
@@ -175,6 +175,11 @@
   },
   "active": "f0b76dc2e7785942",
   "lastOpenFiles": [
+    "template/temp.md",
+    "docs/assets/image/brain-solid.png",
+    "docs/assets/image",
+    "docs/assets/meta/brain-solid.png",
+    "docs/assets/meta",
     "docs/Obsidian/Chia-doi-man-hinh-soan-thao.md",
     "docs/Obsidian/Obsidian-quan-ly-du-an.md",
     "docs/Obsidian/Obsidian-Plugin-tray.md",
@@ -208,9 +213,6 @@
     "docs/Obsidian-Paste-URL-into -Selection -Plugin.md",
     "docs/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
     "docs/Obsidian-Dat-pass-file-trong-obsidian.md",
-    "docs/Chia-doi-man-hinh-soan-thao.md",
-    "setup.py",
-    "docs/ObsidianVault/assets/stylesheets/obsidian_tags.css",
     "docs/assets/images/favicon.png",
     "docs/ObsidianVault/assets/meta/brain-solid.png",
     "docs/ObsidianVault/assets/images/favicon.png"

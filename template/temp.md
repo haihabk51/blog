@@ -1,6 +1,7 @@
 ---
 title: temp
-aliases: 
+aliases:
+  - "{{title}}"
 tags:
   - NoneTag
 date: 
