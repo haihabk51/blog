@@ -4,6 +4,20 @@
     "type": "split",
     "children": [
       {
+        "id": "554c292e38f276ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c791798687e052c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "6628e5f7fb97dd80",
         "type": "tabs",
         "children": [
@@ -11,30 +25,8 @@
             "id": "0afbbec0bed5a66c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ddb1a6328c42bcc1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b6a1f00120e2ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,11 +181,6 @@
   },
   "active": "0afbbec0bed5a66c",
   "lastOpenFiles": [
-    "docs/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
-    "docs/Obsidian/mkdocs",
-    "docs/assets/images/Logo.png",
-    "docs/assets/logo.png",
-    "docs/Obsidian/properties/Properties.md",
     "docs/tags.md",
     "docs/assets/images/favicon.png",
     "docs/assets/images",
@@ -230,9 +213,12 @@
     "docs/assets/stylesheets/obsidian_tags.css",
     "docs/assets/stylesheets/interactive_graph.css",
     "docs/assets/stylesheets/embed_link.css",
+    "docs/assets/javascripts/obsidian_tags.js",
     "docs/ObsidianVault/Soft/Dich-Excel.md",
     "docs/ObsidianVault/References.md",
     "docs/ObsidianVault/Installation.md",
+    "docs/ObsidianVault/Concept.md",
+    "docs/ObsidianVault/Docker.md",
     "assets/meta/brain-solid.png",
     "assets/images/favicon.png",
     "docs/ObsidianVault/assets/meta/brain-solid.png",
