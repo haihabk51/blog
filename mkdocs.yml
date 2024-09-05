@@ -11,7 +11,7 @@ repo_url: https://github.com/haihabk51/blog/
 theme:
   name: material
   icon:
-    logo: assets/logo.png
+    logo: fontawesome/solid/lightbulb
     favicon: assets/images/favicon.png  
     previous: fontawesome/solid/angle-left  # Thêm biểu tượng điều hướng "previous"
     next: fontawesome/solid/angle-right     # Thêm biểu tượng điều hướng "next"
@@ -102,7 +102,7 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-                 
+
   - toc:
       permalink: true
 
