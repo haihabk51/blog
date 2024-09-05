@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/draft/github-action.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/draft/github-action.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/draft/github-action.md",
+                "file": "docs/Obsidian/properties/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/draft/github-action.md"
+                "file": "docs/Obsidian/properties/Properties.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "f0b76dc2e7785942",
   "lastOpenFiles": [
+    "template/draft/github-action.md",
     "docs/assets/stylesheets/obsidian_tags.css",
     "docs/assets/stylesheets/interactive_graph.css",
     "docs/assets/stylesheets/embed_link.css",
@@ -185,7 +186,6 @@
     "docs/assets",
     "assets/stylesheets/obsidian_tags.css",
     "assets/stylesheets/embed_link.css",
-    "assets/stylesheets/interactive_graph.css",
     "template/temp.md",
     "docs/assets/image/brain-solid.png",
     "docs/assets/meta/brain-solid.png",

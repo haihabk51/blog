@@ -17,9 +17,9 @@ category: Obsidian/properties
 
 ## [Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian](Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md)
 
-
-
-
+[[Obsidian-cach-them-properties-vao-obsidian|Cách thêm Properties vào Obsidian như thế nào]]
+[[Obsidian-Doi-ten-nhieu-properties]]
+[[Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian]]
 ```dataview
 TABLE status, file.ext AS type
      WHERE contains(lower(file.name), "obsidian")
