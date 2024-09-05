@@ -175,10 +175,10 @@
   },
   "active": "f0b76dc2e7785942",
   "lastOpenFiles": [
-    "docs/images/favicon.png",
-    "docs/images",
     "docs/assets/images/favicon.png",
     "docs/assets/images",
+    "docs/images/favicon.png",
+    "docs/images",
     "docs/assets/New folder",
     "docs/assets/Logo.png",
     "docs/assets/favicon.png",
@@ -219,7 +219,6 @@
     "docs/Obsidian-Plugin-tray.md",
     "docs/Obsidian-Plugin-must-have.md",
     "docs/Obsidian-Paste-URL-into -Selection -Plugin.md",
-    "docs/ObsidianVault/assets/meta/brain-solid.png",
-    "docs/ObsidianVault/assets/images/favicon.png"
+    "docs/ObsidianVault/assets/meta/brain-solid.png"
   ]
 }
