@@ -1,9 +1,10 @@
 ---
-title: 
-aliases: 
+title: Dịch trong Excel
+aliases:
+  - Dịch trong Excel
 tags:
   - NoneTag
 date: 
-share: 
-category:
+share: true
+category: Soft
 ---
