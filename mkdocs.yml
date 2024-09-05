@@ -1,13 +1,11 @@
 site_name: "HAIHA'S BLOG"
-docs_dir: ./docs/ObsidianVault/
 site_url: https://haihabk51.github.io/blog/
 
 site_description: HAIHA'S BLOG
 site_author: haihabk51
 
 repo_url: https://github.com/haihabk51/blog/
-edit_uri: 'blob/main/docs/ObsidianVault'
-edit_uri_template: 'blob/main/docs/ObsidianVault/{path}'
+
 
 
 theme:
