@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Untitled 1.md",
+                "file": "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,15 +22,19 @@
         ]
       },
       {
-        "id": "ddb1a6328c42bcc1",
+        "id": "1e8af02cf656a9ca",
         "type": "tabs",
         "children": [
           {
-            "id": "8b6a1f00120e2ba5",
+            "id": "d79885a5957240ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md"
+              }
             }
           },
           {
@@ -190,11 +198,11 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "8b6a1f00120e2ba5",
+  "active": "d79885a5957240ab",
   "lastOpenFiles": [
     "docs/Obsidian/nghe-podcast-trong-obsidian.md",
     "docs/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
-    "docs/VLog/Untitled 1.md",
+    "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
     "docs/tags.md",
     "docs/index.md",
     "docs/assets/stylesheets/obsidian_tags.css",
