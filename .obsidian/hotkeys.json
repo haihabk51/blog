@@ -15,5 +15,13 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-daily-stats:show-daily-stats-tracker-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
