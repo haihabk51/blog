@@ -14,7 +14,7 @@ category: Obsidian
 ## Chuẩn bị những gì
 
 - Tải VS Code
-- Tải Github page
+- Tải Github destop
 -  Đăng ký tài khoản github
 - Cài đặt Python
 - Tải template blog của một ai đó làm mẫu- mình sử dụng blog của thienqc.github.io
@@ -43,7 +43,8 @@ Vào mục File-> clone repository -> Paste đường link ở bước 1 để c
 ```
 ### Bước 4 vẫn đang ở VS code
 
-- Gõ tiếp dòng lệnh ở trong cái folder blog  vừa clone và đang mở VS code gõ mkdocs new . (dấu chấm)
+- Gõ tiếp dòng lệnh ở trong cái folder blog  vừa clone và đang mở VS code gõ mkdocs new . (dấu chấm) 
+  - Nhớ là mkdocs new . (dấu . để nó ko tạo thêm folder con)
   
 ```
   mkdocs new . 
