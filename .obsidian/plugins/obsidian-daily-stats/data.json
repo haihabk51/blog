@@ -1,19 +1,12 @@
 {
   "dayCounts": {
-    "2024/8/6": 458
+    "2024/8/6": 458,
+    "2024/8/7": 0
   },
   "todaysWordCount": {
-    "docs/VLog/Untitled 1.md": {
-      "initial": 10,
-      "current": 451
-    },
-    "docs/VLog/6.9.2024.md": {
-      "initial": 457,
-      "current": 463
-    },
-    "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md": {
-      "initial": 465,
-      "current": 476
+    "docs/VLog/Mot-ngay-mua-bao.md": {
+      "initial": 475,
+      "current": 475
     }
   }
 }

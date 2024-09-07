@@ -23,7 +23,7 @@ Ngẫm. Có thực sự là cần nên thế không.
 
 Uk thì học và thực hành là chuyện dễ. mà làm sao để người khác thấy dễ mới là khó.
 
-Nên không ngại khó, không ngại khổ cũng là rèn luyện tâm tính. Kiên trì, không nản trí.
+Nên không ngại khó, không ngại khổ cũng là rèn luyện tâm tính. Kiên trì, không nản chí.
 
 Trời mưa bão mà có việc để làm thật không còn thấy trời buồn nữa.
 ## Kết quả
