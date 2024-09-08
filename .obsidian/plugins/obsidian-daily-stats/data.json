@@ -1,12 +1,13 @@
 {
   "dayCounts": {
     "2024/8/6": 458,
-    "2024/8/7": 0
+    "2024/8/7": 0,
+    "2024/8/8": 11
   },
   "todaysWordCount": {
-    "docs/VLog/Mot-ngay-mua-bao.md": {
-      "initial": 475,
-      "current": 475
+    "docs/VLog/Mac Lover.md": {
+      "initial": 17,
+      "current": 28
     }
   }
 }
