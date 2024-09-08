@@ -14,7 +14,7 @@ category:
 <iFrame src="https://thienqc.github.io/blog/post/tao-mot-trang-blog-don-gian-bang-obsidian-va-mkdocs/?h=mkdoc" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
 
 <u>**==HAIHA==**</u>
-<iFrame src="https://haihabk51.github.io/blog/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs/" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
+<iFrame src="https://nguyenhaiha.com/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs/" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
 
 <u>**==MKDOCS.ORG==**</u>
 <iFrame src="https://www.mkdocs.org/" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
