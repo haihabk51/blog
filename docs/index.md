@@ -10,9 +10,8 @@ category: docs
 
 # Chào Mừng bạn đến nhà của Hà
 
-![](https://i.imgur.com/d8aJSIo.png)
+![](https://i.imgur.com/OgNPW0l.png)
 
 
 ![[tags]]
 
- test [[te|tags]]
