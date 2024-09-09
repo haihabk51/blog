@@ -11,8 +11,12 @@
             "id": "14decb668124a890",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/test01.md"
+                "file": "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md"
               }
             }
           }
@@ -167,8 +173,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d1ee0cd22cec1a1",
+  "active": "14decb668124a890",
   "lastOpenFiles": [
+    "docs/tags.md",
+    "docs/IELTS/CAM16TEST2/CAM16TEST2.md",
+    "docs/VLog/test01.md",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_57.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_58.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_59.mp3",
@@ -179,7 +188,6 @@
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_64.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_65.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_66.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_67.mp3",
     "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R3.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R2.md",
@@ -204,8 +212,6 @@
     "docs/IELTS/linh/Sience-pag5.md",
     "docs/IELTS/linh/Science-page 6.md",
     "docs/IELTS/Image/pexels-photo-24896520.webp",
-    "docs/IELTS/CANVAS/16TEST3FULL.canvas",
-    "docs/IELTS/Vocabulary_L/work.md",
-    "docs/IELTS/Vocabulary_L/thumb(2).md"
+    "docs/IELTS/CANVAS/16TEST3FULL.canvas"
   ]
 }
