@@ -11,12 +11,8 @@
             "id": "14decb668124a890",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/test01.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/test01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/test01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,29 +167,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14decb668124a890",
+  "active": "1d1ee0cd22cec1a1",
   "lastOpenFiles": [
-    "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
-    "docs/VLog/test01.md",
-    "docs/VLog/CAM16TEST3/R/CAM16TEST3R3.md",
-    "docs/VLog/CAM16TEST3/R/CAM16TEST3R2.md",
-    "docs/VLog/CAM16TEST3/R/CAM16TEST3R1.md",
-    "docs/VLog/CAM16TEST3/R",
-    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP4.md",
-    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP3.md",
-    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP2.md",
-    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP1.md",
-    "docs/VLog/CAM16TEST3/L",
-    "docs/VLog/CAM16TEST3/Audio_Test3_Cam16",
-    "docs/VLog/CAM16TEST3/cam16test3.xlsm",
-    "docs/VLog/CAM16TEST3",
-    "docs/New folder",
-    "docs/index.md",
-    "docs/tags-vn-w-15.md",
-    "template/draft/Untitled.md",
-    "docs/VLog/Mac Lover.md",
-    "template/draft/github-action.md",
-    "template/draft/github-action-vn-w-15.md",
-    "docs/VLog/Mac Lover-vn-w-15.md"
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_57.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_58.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_59.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_6.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_61.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_62.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_63.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_64.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_65.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_66.mp3",
+    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_67.mp3",
+    "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
+    "docs/IELTS/CAM16TEST3/R/CAM16TEST3R3.md",
+    "docs/IELTS/CAM16TEST3/R/CAM16TEST3R2.md",
+    "docs/IELTS/CAM16TEST3/R/CAM16TEST3R1.md",
+    "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP4.md",
+    "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP3.md",
+    "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP2.md",
+    "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP1.md",
+    "docs/IELTS/CAM16TEST2/R/RP3CAM16TEST2.md",
+    "docs/IELTS/CAM16TEST2/R/RP1CAM16TEST2.md",
+    "docs/IELTS/CAM16TEST2/R/RP2CAM16TEST2.md",
+    "docs/IELTS/CAM16TEST2/L/LP4CAM16TEST2.md",
+    "docs/IELTS/CAM16TEST2/L/LP3CAM16TEST2.md",
+    "docs/IELTS/CAM16TEST2/L/LP2CAM16TEST2.md",
+    "docs/IELTS/CAM16TEST2/L/LP1CAM16TEST2.md",
+    "docs/IELTS/CAM16TEST2/File nghe Dictation/File nghe Dictation.md",
+    "docs/IELTS/template/template VN.md",
+    "docs/IELTS/template/template callout Answer.md",
+    "docs/IELTS/template/LLM template.md",
+    "docs/IELTS/template/File Temp.md",
+    "docs/IELTS/linh/Science-page6.md",
+    "docs/IELTS/linh/Sience-pag5.md",
+    "docs/IELTS/linh/Science-page 6.md",
+    "docs/IELTS/Image/pexels-photo-24896520.webp",
+    "docs/IELTS/CANVAS/16TEST3FULL.canvas",
+    "docs/IELTS/Vocabulary_L/work.md",
+    "docs/IELTS/Vocabulary_L/thumb(2).md"
   ]
 }

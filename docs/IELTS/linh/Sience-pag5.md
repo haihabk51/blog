@@ -1,0 +1,4 @@
+The human body is ==an amazing structure==. 
+Engineers sometimes use **scientific** knowledge of how the body works to develop **technologies**. 
+
+Some of the technologies help people whose bodies do not **==function==** as they should. Some technologies do tasks that are too dangerous for people. Technologies that have moving parts can be like the human body. A robot is one of these ==technologies==. Robots can have a body structure and **movable** joints that are similar to the human **skeletal** and **muscular** systems. Robots use an electrical energy source to help them move. The human body uses energy from food to help it move. Robots have a **sensor system** and a computer to control **movement**. In the human body, the brain and ==nervous system== help to control movement.
