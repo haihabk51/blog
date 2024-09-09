@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md"
               }
             }
           }
@@ -173,10 +173,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed3f4b990cfa2fe9",
+  "active": "1d1ee0cd22cec1a1",
   "lastOpenFiles": [
-    "docs/tags-vn-w-15.md",
+    "docs/VLog/CAM16TEST3/R/CAM16TEST3R3.md",
+    "docs/VLog/CAM16TEST3/R/CAM16TEST3R2.md",
+    "docs/VLog/CAM16TEST3/R/CAM16TEST3R1.md",
+    "docs/VLog/CAM16TEST3/R",
+    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP4.md",
+    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP3.md",
+    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP2.md",
+    "docs/VLog/CAM16TEST3/L/CAM16TEST3-LP1.md",
+    "docs/VLog/CAM16TEST3/L",
+    "docs/VLog/CAM16TEST3/Audio_Test3_Cam16",
+    "docs/VLog/CAM16TEST3/cam16test3.xlsm",
+    "docs/VLog/CAM16TEST3",
+    "docs/New folder",
     "docs/index.md",
+    "docs/tags-vn-w-15.md",
     "template/draft/Untitled.md",
     "docs/VLog/Mac Lover.md",
     "template/draft/github-action.md",
