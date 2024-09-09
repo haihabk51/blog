@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ccf0b72699373c27",
+        "id": "723a1b0e7adb68fc",
         "type": "tabs",
         "children": [
           {
-            "id": "ed3f4b990cfa2fe9",
+            "id": "14decb668124a890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
-                "mode": "preview",
+                "file": "docs/VLog/test01.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
+                "file": "docs/VLog/test01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
+                "file": "docs/VLog/test01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md"
+                "file": "docs/VLog/test01.md"
               }
             }
           }
@@ -173,8 +173,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d1ee0cd22cec1a1",
+  "active": "14decb668124a890",
   "lastOpenFiles": [
+    "docs/Obsidian/Obsidian-Paste-URL-into -Selection -Plugin.md",
+    "docs/VLog/test01.md",
     "docs/VLog/CAM16TEST3/R/CAM16TEST3R3.md",
     "docs/VLog/CAM16TEST3/R/CAM16TEST3R2.md",
     "docs/VLog/CAM16TEST3/R/CAM16TEST3R1.md",
