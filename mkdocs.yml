@@ -53,7 +53,16 @@ plugins:
   - obsidian-bridge
   #- obsidian-support
   - glightbox
- 
+  - blogging:
+      dirs:
+        - post
+      template: overrides/custom-blog.html
+      features:
+        tags:
+          index_page: tags.md
+          insert: bottom
+      time_format: ' %d-%m-%Y '
+      
 markdown_extensions:
   - admonition
   - attr_list

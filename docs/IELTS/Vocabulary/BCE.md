@@ -1,1 +1,0 @@
-before the Common Era** (trước Công nguyên) 
