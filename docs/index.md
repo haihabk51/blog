@@ -10,8 +10,7 @@ category: docs
 
 # Chào Mừng bạn đến nhà của Hà
 
-![](https://pin.it/1QOgA0GM8)
-
+![](https://i.imgur.com/YfB5bTJ.png)
 
 ![[tags]]
 

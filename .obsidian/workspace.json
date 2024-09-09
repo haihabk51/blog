@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/tags.md",
+                "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/tags.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/tags.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/tags.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -175,8 +175,11 @@
   },
   "active": "14decb668124a890",
   "lastOpenFiles": [
-    "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
+    "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+    "template/draft/Untitled.md",
+    "docs/Soft/Dich-Excel.md",
     "docs/tags.md",
+    "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
     "docs/IELTS/CAM16TEST2/CAM16TEST2.md",
     "docs/VLog/test01.md",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_57.mp3",
@@ -208,9 +211,6 @@
     "docs/IELTS/template/template callout Answer.md",
     "docs/IELTS/template/LLM template.md",
     "docs/IELTS/template/File Temp.md",
-    "docs/IELTS/linh/Science-page6.md",
-    "docs/IELTS/linh/Sience-pag5.md",
-    "docs/IELTS/linh/Science-page 6.md",
     "docs/IELTS/Image/pexels-photo-24896520.webp",
     "docs/IELTS/CANVAS/16TEST3FULL.canvas"
   ]
