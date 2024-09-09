@@ -10,15 +10,13 @@ category:
 
 [everything for mac lover](https://maclife.io/)
 
-<<<<<<< HEAD
-![[https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/good-nights-sleep]]
 =======
-<iframe width="800" height="400" src="https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/good-nights-sleep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<u>**==THIENQC==**</u>
+<iFrame src="https://thienqc.github.io/blog/post/tao-mot-trang-blog-don-gian-bang-obsidian-va-mkdocs/?h=mkdoc" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
 
+<u>**==HAIHA==**</u>
+<iFrame src="https://nguyenhaiha.com/Obsidian/mkdocs/Cac-buoc-tao-website-voi-mkdocs/" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
 
-<u>**==BÀI 01 BRITISHCOUNCIL.ORG==**</u>
-<iFrame src="https://learnenglishteens.britishcouncil.org/skills/listening/a1-listening/good-nights-sleep" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
-
-<u>**==HỌC PYTHON QUANTRIMANG==**</u>
-<iFrame src="https://quantrimang.com/hoc/hoc-python" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
->>>>>>> 1a5e053540d274bf6e7f072e2b55eac670395792
+<u>**==MKDOCS.ORG==**</u>
+<iFrame src="https://www.mkdocs.org/" width="100%" height="500px" name="the-iFrame" frameborder="0"></iFrame><br>
+>>>>>>> cc444d01f6aac73c56060e7f6d16e00c011d6b0d

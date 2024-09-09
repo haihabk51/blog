@@ -11,8 +11,12 @@
             "id": "ed3f4b990cfa2fe9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/VLog/Mac Lover.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "49fe9aaa9bb11af5",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/VLog/Mac Lover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/VLog/Mac Lover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/VLog/Mac Lover.md"
+              }
             }
           }
         ]
@@ -151,5 +160,7 @@
     }
   },
   "active": "ed3f4b990cfa2fe9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/VLog/Mac Lover-vn-w-15.md"
+  ]
 }
