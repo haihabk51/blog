@@ -53,11 +53,8 @@ plugins:
   - obsidian-bridge
   #- obsidian-support
   - glightbox
-  - tags:
-    index_page: tags.md
-    insert: bottom
-    time_format: ' %d-%m-%Y '
-
+  - tags
+    
       
 markdown_extensions:
   - admonition
