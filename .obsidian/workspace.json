@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
-                "mode": "source",
+                "file": "draft/Tải video youtube và phụ đề youtube.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "draft/Tải video youtube và phụ đề youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "draft/Tải video youtube và phụ đề youtube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "draft/Tải video youtube và phụ đề youtube.md"
               }
             }
           }
@@ -175,13 +175,22 @@
   },
   "active": "1d1ee0cd22cec1a1",
   "lastOpenFiles": [
+    "draft/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
+    "draft/KHOÁ ANKI MỘT CLICK UPDATE.md",
+    "draft/Dùng chát GPT luyện nói IELTS.md",
+    "docs/VLog/hinh-anh-truyen-dong-luc.md",
+    "docs/Soft/Dich-Excel.md",
+    "docs/Soft/Hướng Dẫn Dùng Zotero/Zotero sync Free.md",
+    "docs/Soft/Hướng Dẫn Dùng Zotero/Đồng bộ trên zotero.md",
+    "docs/Soft/Hướng Dẫn Dùng Zotero/Hướng dẫn dùng Zotero.md",
+    "docs/Soft/Hướng Dẫn Dùng Zotero",
+    "docs/index.md",
     "docs/Untitled/Untitled.canvas",
     "docs/Untitled/Drawing 2024-09-09 14.51.08.excalidraw.md",
     "docs/Untitled",
     "docs/Untitled.canvas",
     "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
     "template/draft/Untitled.md",
-    "docs/Soft/Dich-Excel.md",
     "docs/tags.md",
     "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
     "docs/IELTS/CAM16TEST2/CAM16TEST2.md",
@@ -194,7 +203,6 @@
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_62.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_63.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_64.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_65.mp3",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R3.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R2.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R1.md",
@@ -205,13 +213,6 @@
     "docs/IELTS/CAM16TEST2/R/RP3CAM16TEST2.md",
     "docs/IELTS/CAM16TEST2/R/RP1CAM16TEST2.md",
     "docs/IELTS/CAM16TEST2/R/RP2CAM16TEST2.md",
-    "docs/IELTS/CAM16TEST2/L/LP4CAM16TEST2.md",
-    "docs/IELTS/CAM16TEST2/L/LP3CAM16TEST2.md",
-    "docs/IELTS/CAM16TEST2/L/LP2CAM16TEST2.md",
-    "docs/IELTS/CAM16TEST2/L/LP1CAM16TEST2.md",
-    "docs/IELTS/CAM16TEST2/File nghe Dictation/File nghe Dictation.md",
-    "docs/IELTS/template/template VN.md",
-    "docs/IELTS/template/template callout Answer.md",
     "docs/IELTS/Image/pexels-photo-24896520.webp",
     "docs/IELTS/CANVAS/16TEST3FULL.canvas"
   ]
