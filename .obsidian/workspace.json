@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soft/Dich-Excel.md",
+                "file": "docs/VLog/Bai-Ve.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Soft/Dich-Excel.md",
+                "file": "docs/VLog/Bai-Ve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Soft/Dich-Excel.md",
+                "file": "docs/VLog/Bai-Ve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Soft/Dich-Excel.md"
+                "file": "docs/VLog/Bai-Ve.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "14decb668124a890",
   "lastOpenFiles": [
+    "docs/Soft/Dich-Excel.md",
     "docs/VLog/Bai-Ve.md",
     "docs/VLog/Cau-mong-muon-dieu-gi.md",
     "docs/VLog/pass.md",
@@ -183,7 +184,6 @@
     "draft/KHOÁ ANKI MỘT CLICK UPDATE.md",
     "draft/Dùng chát GPT luyện nói IELTS.md",
     "docs/VLog/hinh-anh-truyen-dong-luc.md",
-    "docs/Soft/Dich-Excel.md",
     "docs/Soft/Hướng Dẫn Dùng Zotero/Zotero sync Free.md",
     "docs/Soft/Hướng Dẫn Dùng Zotero/Đồng bộ trên zotero.md",
     "docs/Soft/Hướng Dẫn Dùng Zotero/Hướng dẫn dùng Zotero.md",
