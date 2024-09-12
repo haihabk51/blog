@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md",
+                "file": "docs/VLog/Bai-Ve.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md",
+                "file": "docs/VLog/Bai-Ve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md",
+                "file": "docs/VLog/Bai-Ve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md"
+                "file": "docs/VLog/Bai-Ve.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "14decb668124a890",
   "lastOpenFiles": [
+    "docs/VLog/Cau-mong-muon-dieu-gi.md",
     "docs/VLog/pass.md",
     "draft/Tải video youtube và phụ đề youtube.md",
     "draft/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
@@ -212,7 +213,6 @@
     "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP2.md",
     "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP1.md",
     "docs/IELTS/CAM16TEST2/R/RP3CAM16TEST2.md",
-    "docs/IELTS/CAM16TEST2/R/RP1CAM16TEST2.md",
     "docs/IELTS/Image/pexels-photo-24896520.webp",
     "docs/IELTS/CANVAS/16TEST3FULL.canvas"
   ]

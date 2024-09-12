@@ -8,7 +8,9 @@ date:
 share: 
 category:
 ---
-Ống tre khô người ta còn chuộng,
+
+> [!NOTE]+ Ve Vẻ Vè Ve
+> Ống tre khô người ta còn chuộng,
 Bậu lỡ thời như ruộng bỏ hoang.
 Ruộng bỏ hoang người ta còn cấy.            
 Bậu lỡ thời như giấy trôi sông.
@@ -38,6 +40,9 @@ Lửa cháy lan người ta còn tưới,
 Bậu lỡ thời như lưới giăng ngang.
 Lưới giăng ngang người ta còn cuốn,
 Bậu lỡ thời ai muốn mà ưng.
+
 ...
 
 Book:: Hôm Nay phải mở mang- page39- Nguyễn Thuỳ Dung
+
+Đọc bài này nhớ hồi lớp 9 ghê, thuộc bao nhiêu bài Vè, mà giờ k nhớ nỗi 1 câu, một chữ nào
