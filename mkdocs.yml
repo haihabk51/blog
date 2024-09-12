@@ -74,6 +74,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.superfences
+  - pymdownx.escapeall
   - footnotes
   - tables
   - pymdownx.critic

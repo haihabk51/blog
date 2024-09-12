@@ -7,3 +7,5 @@ mkdocs-embed-file-plugins
 mkdocs-obsidian-bridge
 mkdocs-obsidian-interactive-graph-plugin
 overrides
+markdown
+pymdown-extensions
