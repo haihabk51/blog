@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/Tải video youtube và phụ đề youtube.md",
-                "mode": "preview",
+                "file": "docs/VLog/pass.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft/Tải video youtube và phụ đề youtube.md",
+                "file": "docs/VLog/pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft/Tải video youtube và phụ đề youtube.md",
+                "file": "docs/VLog/pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft/Tải video youtube và phụ đề youtube.md"
+                "file": "docs/VLog/pass.md"
               }
             }
           }
@@ -176,6 +175,8 @@
   },
   "active": "1d1ee0cd22cec1a1",
   "lastOpenFiles": [
+    "draft/Tải video youtube và phụ đề youtube.md",
+    "docs/VLog/pass.md",
     "draft/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
     "draft/KHOÁ ANKI MỘT CLICK UPDATE.md",
     "draft/Dùng chát GPT luyện nói IELTS.md",
@@ -203,7 +204,6 @@
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_61.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_62.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_63.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_64.mp3",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R3.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R2.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R1.md",
@@ -213,7 +213,6 @@
     "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP1.md",
     "docs/IELTS/CAM16TEST2/R/RP3CAM16TEST2.md",
     "docs/IELTS/CAM16TEST2/R/RP1CAM16TEST2.md",
-    "docs/IELTS/CAM16TEST2/R/RP2CAM16TEST2.md",
     "docs/IELTS/Image/pexels-photo-24896520.webp",
     "docs/IELTS/CANVAS/16TEST3FULL.canvas"
   ]
