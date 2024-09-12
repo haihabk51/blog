@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/pass.md",
+                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/pass.md",
+                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/pass.md",
+                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/pass.md"
+                "file": "docs/VLog/Cau-mong-muon-dieu-gi.md"
               }
             }
           }
@@ -173,10 +173,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d1ee0cd22cec1a1",
+  "active": "14decb668124a890",
   "lastOpenFiles": [
-    "draft/Tải video youtube và phụ đề youtube.md",
     "docs/VLog/pass.md",
+    "draft/Tải video youtube và phụ đề youtube.md",
     "draft/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
     "draft/KHOÁ ANKI MỘT CLICK UPDATE.md",
     "draft/Dùng chát GPT luyện nói IELTS.md",
