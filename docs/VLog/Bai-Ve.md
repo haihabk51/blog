@@ -10,14 +10,14 @@ category:
 ---
 
  Ve Vẻ Vè Ve
-  Ống tre khô người ta còn chuộng,
-Bậu lỡ thời như ruộng bỏ hoang.
-Ruộng bỏ hoang người ta còn cấy.            
-Bậu lỡ thời như giấy trôi sông.
-Giấy trôi sông người ta còn vớt
-Bậu lỡ thời như ớt chín cây.
-Ớt chín cây người ta còn hái, 
-Bậu lỡ thời như nhái lột da.
+  Ống tre khô người ta còn chuộng, 
+Bậu lỡ thời như ruộng bỏ hoang. 
+Ruộng bỏ hoang người ta còn cấy.             
+Bậu lỡ thời như giấy trôi sông. 
+Giấy trôi sông người ta còn vớt 
+Bậu lỡ thời như ớt chín cây. 
+Ớt chín cây người ta còn hái,  
+Bậu lỡ thời như nhái lột da. 
 Nhái lột da người ta còn sáo,
 Bậu lỡ thời như áo vá vai.
 Áo va vai người ta còn bận,
