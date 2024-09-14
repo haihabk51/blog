@@ -14,7 +14,7 @@ Kết tội người khác
 
 Dùng từ kết tội có vẻ to tát. Dùng từ gì nhẹ nhàng hơn: " đổ lỗi", "đùn đẩy trách nhiệm",..
 
-Khi đổ lỗi cho người khác là ta đang phủ nhận một phần lỗi của chính mình. Tình cờ hôm qua mình gặp một nhiệm vụ cá nhân. Sáng nay mở một trang sách đã đọc thấy nội dung này thấy khớp quá nhỉ.
+Khi đổ lỗi cho người khác là ta đang phủ nhận một phần lỗi của chính mình. Tình cờ hôm qua mình gặp một nhiệm vụ cá nhân. (Sáng nay mở một trang sách đã đọc thấy nội dung này thấy khớp quá nhỉ).
 
 Đến lúc nộp bài mới phát hiện ra phần thiếu xót của người quản lý hoặc có thể là của mình. Chung quy là tại thời điểm đó bản vẽ chưa được update.
 
