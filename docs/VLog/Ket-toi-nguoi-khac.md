@@ -8,8 +8,9 @@ date:
 share: 
 category:
 ---
-https://imgur.com/a/OXsageV
+
 Kết tội người khác
+![](https://i.imgur.com/oRg2865.png)
 
 Dùng từ kết tội có vẻ to tát. Dùng từ gì nhẹ nhàng hơn: " đổ lỗi", "đùn đẩy trách nhiệm",..
 

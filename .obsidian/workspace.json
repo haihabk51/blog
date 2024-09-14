@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Bai-Ve.md",
+                "file": "docs/VLog/Ket-toi-nguoi-khac.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Bai-Ve.md",
+                "file": "docs/VLog/Ket-toi-nguoi-khac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Bai-Ve.md",
+                "file": "docs/VLog/Ket-toi-nguoi-khac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Bai-Ve.md"
+                "file": "docs/VLog/Ket-toi-nguoi-khac.md"
               }
             }
           }
@@ -174,11 +173,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d1ee0cd22cec1a1",
+  "active": "14decb668124a890",
   "lastOpenFiles": [
+    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
+    "docs/VLog/Bai-Ve.md",
+    "docs/VLog/Mac Lover-DESKTOP-HFFLVD7.md",
     "docs/IELTS",
     "docs/Soft/Dich-Excel.md",
-    "docs/VLog/Bai-Ve.md",
     "docs/VLog/Cau-mong-muon-dieu-gi.md",
     "docs/VLog/pass.md",
     "draft/Tải video youtube và phụ đề youtube.md",
@@ -207,13 +208,11 @@
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_6.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_61.mp3",
     "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_62.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_63.mp3",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R3.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R2.md",
     "docs/IELTS/CAM16TEST3/R/CAM16TEST3R1.md",
     "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP4.md",
     "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP3.md",
-    "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP2.md",
     "docs/IELTS/Image/pexels-photo-24896520.webp",
     "docs/IELTS/CANVAS/16TEST3FULL.canvas"
   ]
