@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "86b3eb11c807b967",
+    "id": "275a0095cd34b530",
     "type": "split",
     "children": [
       {
-        "id": "723a1b0e7adb68fc",
+        "id": "fb0e344b2688a889",
         "type": "tabs",
         "children": [
           {
-            "id": "14decb668124a890",
+            "id": "7509ad587104e31e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/Ket-toi-nguoi-khac.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "46ecccfda7a76691",
+    "id": "fb6c241338a5eba8",
     "type": "split",
     "children": [
       {
-        "id": "d72359735f10574a",
+        "id": "c30321645e59d22d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d1ee0cd22cec1a1",
+            "id": "bd82e05673540ad3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "a83cb5d75f1a9783",
+            "id": "d9c6d0813782926f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "ed126cc4e1092b02",
+            "id": "fb30942539e84bea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,34 +62,34 @@
             }
           },
           {
-            "id": "81b59e9d085fc5dc",
+            "id": "489c5795b0fb7746",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "49fe9aaa9bb11af5",
+    "id": "caecb22d1e1a0a3e",
     "type": "split",
     "children": [
       {
-        "id": "b007fde962c1aeb4",
+        "id": "dfd5468795cca482",
         "type": "tabs",
         "children": [
           {
-            "id": "91acee2f6b2b0d8f",
+            "id": "86042af589d2a76d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Ket-toi-nguoi-khac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +101,18 @@
             }
           },
           {
-            "id": "6837590911bd1563",
+            "id": "49ad172ec42118a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Ket-toi-nguoi-khac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a107c8217bb0b8a6",
+            "id": "57d5579a688e8ff8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +123,7 @@
             }
           },
           {
-            "id": "206a22b655fe32c9",
+            "id": "396ebd35a11c9316",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,13 +135,11 @@
             }
           },
           {
-            "id": "305af28506776022",
+            "id": "84dd46b6f258f6e1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/VLog/Ket-toi-nguoi-khac.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,62 +151,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "14decb668124a890",
+  "active": "bd82e05673540ad3",
   "lastOpenFiles": [
-    "docs/VLog/Su-hoc-tam-tu-cha-me.md",
-    "docs/VLog/Bai-Ve.md",
-    "docs/VLog/Mac Lover-DESKTOP-HFFLVD7.md",
-    "docs/IELTS",
-    "docs/Soft/Dich-Excel.md",
-    "docs/VLog/Cau-mong-muon-dieu-gi.md",
-    "docs/VLog/pass.md",
-    "draft/Tải video youtube và phụ đề youtube.md",
-    "draft/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
-    "draft/KHOÁ ANKI MỘT CLICK UPDATE.md",
-    "draft/Dùng chát GPT luyện nói IELTS.md",
-    "docs/VLog/hinh-anh-truyen-dong-luc.md",
-    "docs/Soft/Hướng Dẫn Dùng Zotero/Zotero sync Free.md",
-    "docs/Soft/Hướng Dẫn Dùng Zotero/Đồng bộ trên zotero.md",
-    "docs/Soft/Hướng Dẫn Dùng Zotero/Hướng dẫn dùng Zotero.md",
-    "docs/Soft/Hướng Dẫn Dùng Zotero",
-    "docs/index.md",
-    "docs/Untitled/Untitled.canvas",
-    "docs/Untitled/Drawing 2024-09-09 14.51.08.excalidraw.md",
-    "docs/IELTS",
-    "docs/Untitled.canvas",
-    "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
-    "template/draft/Untitled.md",
-    "docs/tags.md",
-    "docs/IELTS/CAM16TEST4/L/CAM16TEST4-L1.md",
-    "docs/IELTS/CAM16TEST2/CAM16TEST2.md",
-    "docs/VLog/test01.md",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_57.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_58.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_59.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_6.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_61.mp3",
-    "docs/IELTS/CAM16TEST2/Audio_cam16_test2/TEST2CAM16PART3/PART3CAM16TEST2_62.mp3",
-    "docs/IELTS/CAM16TEST3/R/CAM16TEST3R3.md",
-    "docs/IELTS/CAM16TEST3/R/CAM16TEST3R2.md",
-    "docs/IELTS/CAM16TEST3/R/CAM16TEST3R1.md",
-    "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP4.md",
-    "docs/IELTS/CAM16TEST3/L/CAM16TEST3-LP3.md",
-    "docs/IELTS/Image/pexels-photo-24896520.webp",
-    "docs/IELTS/CANVAS/16TEST3FULL.canvas"
+    "docs/BOOK/CHUYENNGUNGON-1.pdf",
+    "docs/BOOK/CHUYENNGUNGON1.pdf",
+    "docs/BOOK/-.pdf",
+    "docs/BOOK/CHUYENNGUNGON-2.pdf",
+    "docs/BOOK/NguNgonAesop1.pdf",
+    "docs/BOOK/Ngu Ngon Aesop - Nhung Cau Chuyen Bi Lang Quen - Fiona Waters & Fulvio Testa.pdf",
+    "docs/BOOK/Ngu Ngon Aesop - Fiona Waters & Fulvio Testa.pdf",
+    "docs/BOOK",
+    "docs/New folder"
   ]
 }
