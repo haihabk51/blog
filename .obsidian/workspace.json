@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/BOOK/Building-a-second-brain.md",
+                "file": "docs/VLog/pass.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/BOOK/Building-a-second-brain.md",
+                "file": "docs/VLog/pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/BOOK/Building-a-second-brain.md",
+                "file": "docs/VLog/pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/BOOK/Building-a-second-brain.md"
+                "file": "docs/VLog/pass.md"
               }
             }
           }
@@ -175,12 +175,14 @@
   },
   "active": "7509ad587104e31e",
   "lastOpenFiles": [
+    "docs/VLog/Mot-ngay-mua-bao.md",
+    "docs/VLog/Mac Lover.md",
+    "docs/VLog/hinh-anh-truyen-dong-luc.md",
+    "docs/VLog/medium.md",
+    "docs/BOOK/Building-a-second-brain.md",
     "docs/BOOK/CHUYEN-NGU-NGON-2.md",
     "docs/VLog/pass.md",
     "docs/VLog/embed-file-pdf-to-mkdocs.md",
-    "docs/BOOK/Building-a-second-brain.md",
-    "docs/VLog/Untitled.md",
-    "docs/VLog/hinh-anh-truyen-dong-luc.md",
     "docs/BOOK/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
     "docs/BOOK/CHUYENNGUNGON-1.pdf",
     "docs/BOOK/CHUYENNGUNGON1.pdf",
