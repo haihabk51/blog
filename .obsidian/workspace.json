@@ -11,8 +11,12 @@
             "id": "7509ad587104e31e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/BOOK/CHUYEN-NGU-NGON-1.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/BOOK/CHUYEN-NGU-NGON-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/BOOK/CHUYEN-NGU-NGON-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/BOOK/CHUYEN-NGU-NGON-1.md"
+              }
             }
           }
         ]
@@ -166,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd82e05673540ad3",
+  "active": "7509ad587104e31e",
   "lastOpenFiles": [
+    "docs/BOOK/CHUYEN-NGU-NGON-1.md",
     "docs/BOOK/CHUYENNGUNGON-1.pdf",
     "docs/BOOK/CHUYENNGUNGON1.pdf",
     "docs/BOOK/-.pdf",
