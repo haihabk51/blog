@@ -26,11 +26,11 @@ Thuốc đây bà con.
 
 ---
 ==**update (19.09.2024)**==
-Há Hà, Lại bị chặn nựa.
+Há Hà, Lại bị chặn nựa. cứ gặp khó là có " Đồng Chí"- 500 anh em đã có thuốc ở bên dưới. Sợ các bác.
 
 ^^ 
 
-theo hdan ở đây nhé https://github.com/Xatta-Trone/medium-parser-extension
+Theo ở đây nhé https://github.com/Xatta-Trone/medium-parser-extension
 
 
 ![](https://i.imgur.com/e1WFZRc.png)
