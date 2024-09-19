@@ -13,25 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/me.di.um-vuot-rao.md",
+                "file": "docs/VLog/Untitled.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "6d112a2a37d68110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "47bb6e78bad0c95f",
+        "id": "4392425f1e1303ae",
         "type": "tabs",
         "children": [
           {
-            "id": "228a4c889b2ca51e",
+            "id": "d2cb5b038b5c8ce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/me.di.um-vuot-rao.md",
+                "file": "docs/VLog/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,6 +102,14 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "de4b7cb8cc3496e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -111,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/me.di.um-vuot-rao.md",
+                "file": "docs/VLog/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/me.di.um-vuot-rao.md",
+                "file": "docs/VLog/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/me.di.um-vuot-rao.md"
+                "file": "docs/VLog/Untitled.md"
               }
             }
           }
@@ -191,17 +211,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "228a4c889b2ca51e",
+  "active": "7509ad587104e31e",
   "lastOpenFiles": [
+    "docs/VLog/me.di.um-vuot-rao.md",
+    "docs/VLog/embed-file-pdf-to-mkdocs.md",
+    "docs/VLog/Untitled.md",
     "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
     "docs/BOOK/CHUYEN-NGU-NGON-2.md",
     "docs/VLog/pass.md",
     "docs/VLog/Mot-ngay-mua-bao.md",
     "docs/VLog/Mac Lover.md",
     "docs/VLog/hinh-anh-truyen-dong-luc.md",
-    "docs/VLog/me.di.um-vuot-rao.md",
     "docs/BOOK/Building-a-second-brain.md",
-    "docs/VLog/embed-file-pdf-to-mkdocs.md",
     "docs/BOOK/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
     "docs/BOOK/CHUYENNGUNGON-1.pdf",
     "docs/BOOK/CHUYENNGUNGON1.pdf",
