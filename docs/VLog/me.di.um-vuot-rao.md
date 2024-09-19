@@ -25,18 +25,14 @@ Thuốc đây bà con.
 
 
 ---
-==**update (19.09.2024)**==
+# ==**Update (19.09.2024)**==
 Há Hà, Lại bị chặn nựa. cứ gặp khó là có " Đồng Chí"- 500 anh em đã có thuốc ở bên dưới. Sợ các bác.
-
-^^ 
-
-Theo ở đây nhé https://github.com/Xatta-Trone/medium-parser-extension
-
-
+Đây là thông báo chính thức gỡ extension khỏi chrome
 ![](https://i.imgur.com/e1WFZRc.png)
 
-
-### 1.tải file .zip từ link github về, giải nén ra ( Nhớ là lưu folder vào thư mục nào đấy, và đừng xóa đi nhớ hem)
+## Dưới đây là thuốc của 500 anh em giang hồ gợi ý ( ủa mình thuộc bang phái nào ^^😜)
+### 1.tải file .zip từ link github về, giải nén ra ( Nhớ là lưu folder vào thư mục nào đấy, và đừng xóa đi nhớ hem) 
+Link tải ở đây: https://github.com/Xatta-Trone/medium-parser-extension
 ![](https://i.imgur.com/ZFONtrZ.png)
 
 
