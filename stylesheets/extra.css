@@ -1,17 +1,23 @@
-.custom-iframe.audio iframe {
-    height: 100px; /* Chiều cao cố định cho âm thanh */
-}
-
-.custom-iframe.pdf iframe {
-    height: 800px; /* Chiều cao cho PDF */
-    max-width: 100%; /* Đảm bảo PDF không vượt quá khung hiển thị */
-}
-
 .custom-iframe {
     border: 2px solid #d3c2ae; /* Viền màu be nhạt */
     background-color: #f5f5dc; /* Màu nền be nhạt */
     padding: 10px;
     border-radius: 8px;
     width: 100%;
+    max-width: 800px; /* Giới hạn chiều rộng tối đa để hiển thị đẹp hơn */
+    margin: 0 auto; /* Canh giữa khung */
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Bóng đổ nhẹ */
+}
+
+.custom-iframe.audio iframe {
+    height: 100px; /* Chiều cao cố định cho âm thanh */
+    width: 100%;
+    border-radius: 5px; /* Bo góc nhẹ cho khung iframe */
+}
+
+.custom-iframe.pdf iframe {
+    height: 800px; /* Chiều cao cho PDF */
+    width: 100%;
+    border-radius: 5px; /* Bo góc nhẹ cho khung iframe */
+    max-width: 100%;
 }
