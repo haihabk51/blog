@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -34,18 +34,18 @@
         ]
       },
       {
-        "id": "4392425f1e1303ae",
+        "id": "a49538b8f0646649",
         "type": "tabs",
         "children": [
           {
-            "id": "d2cb5b038b5c8ce6",
+            "id": "8db35f6f1f59545c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "caecb22d1e1a0a3e",
@@ -211,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7509ad587104e31e",
+  "active": "8db35f6f1f59545c",
   "lastOpenFiles": [
     "docs/VLog/Untitled.md",
     "stylesheets/extra.css",

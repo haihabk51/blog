@@ -15,7 +15,8 @@ Tưởng dễ mà không có thể đơn giản hơn.( hỏi chát GPT lòi ru�
 
 Bước 1- là bạn up file lên google drive nhé.
 
-Bước 2: lấy cái link share nhưng chữ cuối cùng của link là chữ view.-> mình sửa lại thành preview và paste vào cấu trúc embeded thôi là xong rồi.
+Bước 2: lấy cái link share- copy paste sang cửa sổ mới thì ta thấy đuôi của link nhận được có chữ ==view==
+-> mình sửa lại thành preview và paste link này vào cấu trúc embeded thôi là xong rồi.
 
 ![](https://i.imgur.com/fQeiMwv.png)
 
