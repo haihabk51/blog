@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "47bb6e78bad0c95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "228a4c889b2ca51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/VLog/me.di.um-vuot-rao.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7509ad587104e31e",
+  "active": "228a4c889b2ca51e",
   "lastOpenFiles": [
     "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
     "docs/BOOK/CHUYEN-NGU-NGON-2.md",

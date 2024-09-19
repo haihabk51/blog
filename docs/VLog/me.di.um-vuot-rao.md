@@ -36,12 +36,19 @@ Theo ở đây nhé https://github.com/Xatta-Trone/medium-parser-extension
 ![](https://i.imgur.com/e1WFZRc.png)
 
 
-1.tải file .zip từ link github về, giải nén ra ( Nhớ là lưu folder vào thư mục nào đấy, và đừng xóa đi nhớ hem)
+### 1.tải file .zip từ link github về, giải nén ra ( Nhớ là lưu folder vào thư mục nào đấy, và đừng xóa đi nhớ hem)
+![](https://i.imgur.com/ZFONtrZ.png)
 
-2.mở trình duyệt Chrome, ==gõ== chrome://extensions, bật Developer mode lên
+
+### 2.mở trình duyệt Chrome, 
+==gõ== chrome://extensions, bật Developer mode lên
 ![](https://i.imgur.com/4VhcmKI.png)
 
-sau khi bật Developer mode thì nó sẽ hiện thêm mấy nút này, bấm Load unpacked rồi chọn đến cái folder giải nén lúc nãy->nhớ chọn tới cái chrome kia nữa kìa. hổng là báo lỗi liền  ngay. 😜 
-3![](https://i.imgur.com/YlFpQSB.png)
+sau khi bật Developer mode thì nó sẽ hiện thêm mấy nút này, 
+![](https://i.imgur.com/YlFpQSB.png)
+bấm Load unpacked rồi chọn đến cái folder giải nén lúc nãy
+
+->nhớ chọn tới cái chrome kia nữa kìa. hổng là báo lỗi liền  ngay. 😜 
+
 
 ![](https://i.imgur.com/qSjd2JZ.png)
