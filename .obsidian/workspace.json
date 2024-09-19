@@ -4,49 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb0e344b2688a889",
+        "id": "2b8d7a3a92904c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "7509ad587104e31e",
+            "id": "d5b28771961b6c20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d112a2a37d68110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a49538b8f0646649",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8db35f6f1f59545c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -131,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/VLog/embed-file-pdf-to-mkdocs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -211,13 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8db35f6f1f59545c",
+  "active": "d5b28771961b6c20",
   "lastOpenFiles": [
+    "docs/VLog/embed-file-pdf-to-mkdocs.md",
     "docs/VLog/Untitled.md",
     "stylesheets/extra.css",
     "stylesheets",
     "docs/VLog/me.di.um-vuot-rao.md",
-    "docs/VLog/embed-file-pdf-to-mkdocs.md",
     "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
     "docs/BOOK/CHUYEN-NGU-NGON-2.md",
     "docs/VLog/pass.md",
