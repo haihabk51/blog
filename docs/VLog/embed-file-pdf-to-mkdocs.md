@@ -29,3 +29,6 @@ Thì đây: Thay link vào là xong nhé
 ```
 <iframe src="https://drive.google.com/file/d/1osXjAxtuNgW-ePlylnPoMJAkR4f09y3h/preview" width="100%" height="800px" frameborder="0"></iframe>
 ```
+
+## Tương tự với file mp3 trên google drive nhé
+![](https://i.imgur.com/62eokTq.png)
