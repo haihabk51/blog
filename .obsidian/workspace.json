@@ -4,18 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "2b8d7a3a92904c8f",
+        "id": "e07a34d8c2778e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b28771961b6c20",
+            "id": "10b736592d03bd8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
+                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "49322575d244a473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d24f8bb52eda92b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -101,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
+                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
+                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md"
+                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md"
               }
             }
           }
@@ -181,9 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5b28771961b6c20",
+  "active": "10b736592d03bd8d",
   "lastOpenFiles": [
     "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
+    "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
     "docs/VLog/Untitled.md",
     "stylesheets/extra.css",
     "stylesheets",
