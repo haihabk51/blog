@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
-                "mode": "source",
+                "file": "docs/VLog/medium.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
+                "file": "docs/VLog/medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
+                "file": "docs/VLog/medium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md"
+                "file": "docs/VLog/medium.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "7509ad587104e31e",
   "lastOpenFiles": [
-    "docs/BOOK/CHUYEN-NGU-NGON-2.md",
     "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
+    "docs/BOOK/CHUYEN-NGU-NGON-2.md",
     "docs/VLog/pass.md",
     "docs/VLog/Mot-ngay-mua-bao.md",
     "docs/VLog/Mac Lover.md",

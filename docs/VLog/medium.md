@@ -21,5 +21,6 @@ Thuốc đây bà con.
 ![](https://i.imgur.com/abujkkD.png)
 
 
+![](https://i.imgur.com/L30r0jV.png)
 
-![](https://i.imgur.com/znidLqp.png)
+
