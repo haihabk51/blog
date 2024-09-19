@@ -11,8 +11,12 @@
             "id": "d5b28771961b6c20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/VLog/embed-file-pdf-audio-to-mkdocs.md"
+              }
             }
           }
         ]
@@ -175,7 +183,7 @@
   },
   "active": "d5b28771961b6c20",
   "lastOpenFiles": [
-    "docs/VLog/embed-file-pdf-to-mkdocs.md",
+    "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
     "docs/VLog/Untitled.md",
     "stylesheets/extra.css",
     "stylesheets",

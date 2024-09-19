@@ -1,7 +1,7 @@
 ---
-title: Thêm pdf vào web như nào đây
+title: Thêm pdf  và audio vào web như nào đây
 aliases:
-  - Thêm pdf vào web như nào đây
+  - Thêm pdf  và audio vào web như nào đây
 tags:
   - pdf
 date: 
