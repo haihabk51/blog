@@ -1,7 +1,12 @@
-
-.md-grid {
-  max-width: 1500px;
+.custom-iframe.audio iframe {
+    height: 100px; /* Chiều cao cố định cho âm thanh */
 }
+
+.custom-iframe.pdf iframe {
+    height: 800px; /* Chiều cao cho PDF */
+    max-width: 100%; /* Đảm bảo PDF không vượt quá khung hiển thị */
+}
+
 .custom-iframe {
     border: 2px solid #d3c2ae; /* Viền màu be nhạt */
     background-color: #f5f5dc; /* Màu nền be nhạt */
