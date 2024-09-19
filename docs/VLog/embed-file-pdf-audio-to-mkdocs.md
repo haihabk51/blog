@@ -43,4 +43,9 @@ Thì đây: Thay link vào là xong nhé
 - rồi copy mã code paste vào ![](https://i.imgur.com/LExwZ6O.png)
 ### Dưới đây là ví dụ
 
-<iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198275799&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alamgir-4" title="Alamgir" target="_blank" style="color: #cccccc; text-decoration: none;">Alamgir</a> · <a href="https://soundcloud.com/alamgir-4/track04" title="Track04" target="_blank" style="color: #cccccc; text-decoration: none;">Track04</a></div>
+<iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay=false" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/198275799&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alamgir-4" title="Alamgir" target="_blank" style="color: #cccccc; text-decoration: none;">Alamgir</a> · <a href="https://soundcloud.com/alamgir-4/track04" title="Track04" target="_blank" style="color: #cccccc; text-decoration: none;">Track04</a></div>
+
+
+#### Để khi load page ==không tự động phát== thì bạn sửa như sau 
+![](https://i.imgur.com/mTkcq71.png)
+![](https://i.imgur.com/v58G7lW.png)
