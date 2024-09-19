@@ -211,8 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7509ad587104e31e",
+  "active": "bd82e05673540ad3",
   "lastOpenFiles": [
+    "stylesheets/extra.css",
+    "stylesheets",
     "docs/VLog/me.di.um-vuot-rao.md",
     "docs/VLog/Untitled.md",
     "docs/VLog/embed-file-pdf-to-mkdocs.md",
@@ -231,7 +233,6 @@
     "docs/BOOK/NguNgonAesop1.pdf",
     "docs/BOOK/Ngu Ngon Aesop - Nhung Cau Chuyen Bi Lang Quen - Fiona Waters & Fulvio Testa.pdf",
     "docs/BOOK/Ngu Ngon Aesop - Fiona Waters & Fulvio Testa.pdf",
-    "docs/BOOK",
-    "docs/New folder"
+    "docs/BOOK"
   ]
 }
