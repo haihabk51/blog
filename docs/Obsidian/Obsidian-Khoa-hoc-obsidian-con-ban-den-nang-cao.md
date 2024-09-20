@@ -19,3 +19,5 @@ Nội dung
 •	Cách sử dụng plugin như Dataview, Breadcrumbs, tách note, phân tích note
 
 👉️ https://bom.so/MAlyhA 
+
+Nếu bạn muốn save time và học bằng tiếng việt thì tham khảo khóa học của mình ở [khoahocobsidian.com](https://www.khoahocobsidian.com/)

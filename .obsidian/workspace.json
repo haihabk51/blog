@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
+                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
+                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
+                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md"
+                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md"
               }
             }
           }
@@ -201,8 +201,10 @@
   },
   "active": "10b736592d03bd8d",
   "lastOpenFiles": [
-    "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
+    "docs/Obsidian/nghe-podcast-trong-obsidian.md",
+    "docs/Obsidian/Obsidian-Plugin-tray.md",
     "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
+    "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
     "docs/VLog/Untitled.md",
     "stylesheets/extra.css",
     "stylesheets",
