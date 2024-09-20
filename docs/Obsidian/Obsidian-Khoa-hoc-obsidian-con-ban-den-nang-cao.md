@@ -20,4 +20,7 @@ Nội dung
 
 👉️ https://bom.so/MAlyhA 
 
-Nếu bạn muốn save time và học bằng tiếng việt thì tham khảo khóa học của mình ở [khoahocobsidian.com](https://www.khoahocobsidian.com/)
+
+> [!hint] Gợi Ý
+> Nếu bạn muốn save time và học bằng tiếng việt thì tham khảo khóa học của mình ở [khoahocobsidian.com](https://www.khoahocobsidian.com/khoa-hoc/01-dang-ky-obsidian-full/)
+
