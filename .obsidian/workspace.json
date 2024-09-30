@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Soft/cat-nho-mp3-mp4.md",
+                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Soft/cat-nho-mp3-mp4.md",
+                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Soft/cat-nho-mp3-mp4.md",
+                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Soft/cat-nho-mp3-mp4.md"
+                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md"
               }
             }
           }
@@ -183,8 +183,9 @@
   },
   "active": "d8b86c2dc1cbf8bc",
   "lastOpenFiles": [
-    "docs/VLog/vun-vat.md",
     "docs/Soft/cat-nho-mp3-mp4.md",
+    "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
+    "docs/VLog/vun-vat.md",
     "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
     "docs/VLog/Untitled 1.md",
     "docs/VLog/Untitled.md",
