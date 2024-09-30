@@ -1,10 +1,10 @@
 ---
-title: temp
+title: Tải audio của một playlist youtube với 1 click
 aliases:
-  - "{{title}}"
+  - Tải audio của một playlist youtube với 1 click
 tags:
-  - NoneTag
-date: 
+  - soft
+date: 2024-09-30
 share: 
 category:
 ---
