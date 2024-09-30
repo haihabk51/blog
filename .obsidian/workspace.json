@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e07a34d8c2778e1d",
+        "id": "3e1ef3f791b58206",
         "type": "tabs",
         "children": [
           {
-            "id": "10b736592d03bd8d",
+            "id": "d8b86c2dc1cbf8bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+                "file": "docs/VLog/vun-vat.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "49322575d244a473",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d24f8bb52eda92b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -119,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+                "file": "docs/VLog/vun-vat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+                "file": "docs/VLog/vun-vat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md"
+                "file": "docs/VLog/vun-vat.md"
               }
             }
           }
@@ -184,35 +166,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "10b736592d03bd8d",
+  "active": "d8b86c2dc1cbf8bc",
   "lastOpenFiles": [
-    "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
+    "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
+    "docs/VLog/Untitled 1.md",
+    "docs/VLog/Untitled.md",
+    "docs/VLog/Bai-Ve.md",
+    "docs/VLog/vun-vat.md",
+    "docs/VLog/pass.md",
+    "docs/Anki/Anki-mot-click-vn-w-15.md",
+    "IMG_8400.jpeg",
+    "docs/VLog/sinh-nhat-18-lan-2.md",
     "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
+    "docs/My project/day01.20.09.2024.md",
+    "docs/My project",
+    "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
     "docs/Obsidian/nghe-podcast-trong-obsidian.md",
     "docs/Obsidian/Obsidian-Plugin-tray.md",
     "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
-    "docs/VLog/Untitled.md",
     "stylesheets/extra.css",
     "stylesheets",
     "docs/VLog/me.di.um-vuot-rao.md",
     "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
     "docs/BOOK/CHUYEN-NGU-NGON-2.md",
-    "docs/VLog/pass.md",
     "docs/VLog/Mot-ngay-mua-bao.md",
     "docs/VLog/Mac Lover.md",
     "docs/VLog/hinh-anh-truyen-dong-luc.md",
@@ -223,7 +214,6 @@
     "docs/BOOK/-.pdf",
     "docs/BOOK/CHUYENNGUNGON-2.pdf",
     "docs/BOOK/NguNgonAesop1.pdf",
-    "docs/BOOK/Ngu Ngon Aesop - Nhung Cau Chuyen Bi Lang Quen - Fiona Waters & Fulvio Testa.pdf",
-    "docs/BOOK/Ngu Ngon Aesop - Fiona Waters & Fulvio Testa.pdf"
+    "docs/BOOK/Ngu Ngon Aesop - Nhung Cau Chuyen Bi Lang Quen - Fiona Waters & Fulvio Testa.pdf"
   ]
 }
