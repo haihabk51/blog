@@ -22,3 +22,7 @@ Tiền có thể kiếm thêm, kiếm nữa nhưng thời gian thì không.
 
 Nên việc gì mình muốn- mình thích thì mình làm thôi, đừng tính toán so đo nhiều. Rồi bạn sẽ chỉ tiếc nuối những điều chưa làm. Chứ không ai tiếc nuối nhiều những điều đã làm.
 
+![](https://i.imgur.com/czIbXlJ.png)
+![](https://i.imgur.com/BIt26hq.png)
+![](https://i.imgur.com/WdAARxn.png)
+![](https://i.imgur.com/e8Vmxpz.png)

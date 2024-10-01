@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3e1ef3f791b58206",
-        "type": "tabs",
+        "id": "fd93ca347257a1fc",
+        "type": "split",
         "children": [
           {
-            "id": "d8b86c2dc1cbf8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
-                "mode": "source",
-                "source": false
+            "id": "3e1ef3f791b58206",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8b86c2dc1cbf8bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/VLog/sinh-nhat-18-lan-2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "a8ab3eea0f6e3439",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "683ee52623a23ffd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/VLog/sinh-nhat-18-lan-2.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
+                "file": "docs/VLog/sinh-nhat-18-lan-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
+                "file": "docs/VLog/sinh-nhat-18-lan-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Soft/Tai-mot-playlist-youtube-1-click.md"
+                "file": "docs/VLog/sinh-nhat-18-lan-2.md"
               }
             }
           }
@@ -181,10 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8b86c2dc1cbf8bc",
+  "active": "683ee52623a23ffd",
   "lastOpenFiles": [
-    "docs/Soft/cat-nho-mp3-mp4.md",
     "docs/Soft/Tai-mot-playlist-youtube-1-click.md",
+    "docs/Soft/cat-nho-mp3-mp4.md",
     "docs/VLog/vun-vat.md",
     "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
     "docs/VLog/Untitled 1.md",
