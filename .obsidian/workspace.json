@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
+                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
+                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
+                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md"
+                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,8 +201,9 @@
   },
   "active": "6dc92e2764a39f5d",
   "lastOpenFiles": [
-    "docs/BOOK/Tôi Tự học/Học để làm gì.md",
     "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
+    "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
+    "docs/BOOK/Tôi Tự học/Học để làm gì.md",
     "docs/BOOK/Tôi Tự học/1.md",
     "docs/BOOK/Tôi Tự học/Toituhoc_thugiang_nguyenduycan_pdf.md",
     "docs/VLog/others/hạnh phú.md",
@@ -236,7 +237,6 @@
     "docs/Anki/Anki-mot-click-vn-w-15.md",
     "IMG_8400.jpeg",
     "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
-    "docs/My project/day01.20.09.2024.md",
     "docs/My project"
   ]
 }
