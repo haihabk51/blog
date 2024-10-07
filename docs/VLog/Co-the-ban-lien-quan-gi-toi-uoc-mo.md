@@ -10,11 +10,11 @@ category:
 ---
 
 
-- Một sáng thức dậy- thấy cơ thể mệt mỏi từ tâm đến thân.
+Một sáng thức dậy- thấy cơ thể mệt mỏi từ tâm đến thân.
 
 Cái lưng đau khiến cái thân không muốn làm gì nữa cả.
 
-Trí tuệ minh mẫn trong một cơ thể khỏe mạnh.
+Trí tuệ minh mẫn ==chỉ có== trong một cơ thể khỏe mạnh.
 
 Rồi mình cũng chẳng còn lựa chọn nào khác, bước xuống giường, khi còn đang ngái ngủ, đi bộ, hít thở không khí trong lành, quên đi hết những ƯỚC MƠ.
 
