@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ab3eea0f6e3439",
+        "id": "92f18a706698cb24",
         "type": "tabs",
         "children": [
           {
-            "id": "683ee52623a23ffd",
+            "id": "6dc92e2764a39f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Toituhoc_thugiang_nguyenduycan_pdf.md",
+                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -32,16 +32,6 @@
         "id": "c30321645e59d22d",
         "type": "tabs",
         "children": [
-          {
-            "id": "bd82e05673540ad3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "d9c6d0813782926f",
             "type": "leaf",
@@ -82,14 +72,15 @@
             }
           },
           {
-            "id": "6b0ad468e020471e",
+            "id": "e7508203a82b5d63",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -109,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Toituhoc_thugiang_nguyenduycan_pdf.md",
+                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,12 +112,22 @@
             }
           },
           {
+            "id": "bd82e05673540ad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "49ad172ec42118a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Toituhoc_thugiang_nguyenduycan_pdf.md",
+                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +162,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Toituhoc_thugiang_nguyenduycan_pdf.md"
+                "file": "docs/BOOK/Tôi Tự học/Hạnh phúc.md"
               }
             }
+          },
+          {
+            "id": "f1ee06fa19807ff6",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 574.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,25 +189,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "683ee52623a23ffd",
+  "active": "6dc92e2764a39f5d",
   "lastOpenFiles": [
-    "docs/VLog/others",
-    "docs/BOOK/Toi_tu_hoc/Tu_hoc_mot_nhu_cau_thoi_dai_NguyenHienLe/Tu_hoc_mot_nhu_cau_thoi_dai_Nguyenhienle.md",
-    "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Toituhoc_thugiang_nguyenduycan_pdf.md",
-    "docs/BOOK/Toi_tu_hoc/Tu_hoc_mot_nhu_cau_thoi_dai_NguyenHienLe/Index.md",
+    "docs/BOOK/Tôi Tự học/Học để làm gì.md",
+    "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
+    "docs/BOOK/Tôi Tự học/1.md",
+    "docs/BOOK/Tôi Tự học/Toituhoc_thugiang_nguyenduycan_pdf.md",
+    "docs/VLog/others/hạnh phú.md",
+    "docs/Attachment/toi-tu-hoc-thu-giang-nguyen-duy-can.pdf",
+    "docs/Attachment/Tu hoc mot nhu cau cua thoi dai.pdf",
+    "docs/BOOK/Tôi Tự học/Index.md",
+    "docs/BOOK/Tự học một nhu cầu thời đại/Tu_hoc_mot_nhu_cau_thoi_dai_Nguyenhienle.md",
+    "docs/BOOK/Toi_tu_hoc/Tu_hoc_mot_nhu_cau_thoi_dai_NguyenHienLe/2.md",
     "docs/BOOK/Toi_tu_hoc/Tu_hoc_mot_nhu_cau_thoi_dai_NguyenHienLe",
+    "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Toituhoc_thugiang_nguyenduycan_pdf.md",
+    "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Index.md",
+    "docs/Attachment",
+    "docs/BOOK/Tôi Tự học",
+    "docs/BOOK/Toi_tu_hoc/Tu_hoc_mot_nhu_cau_thoi_dai_NguyenHienLe/Tu_hoc_mot_nhu_cau_thoi_dai_Nguyenhienle.md",
+    "docs/BOOK/Tự học một nhu cầu thời đại/Index.md",
+    "docs/BOOK/Tự học một nhu cầu thời đại",
+    "docs/VLog/others",
+    "docs/BOOK/Toi_tu_hoc/Tu_hoc_mot_nhu_cau_thoi_dai_NguyenHienLe/Index.md",
     "docs/BOOK/1-99-tai-nang-mo-hoi-nuoc-mat.md",
     "docs/VLog/Hoc-nhanh-nho-lau.md",
-    "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan/Index.md",
     "docs/BOOK/Toi_tu_hoc/Toi_tu_hoc_ThuGian_NGuyenDuyCan",
     "docs/BOOK/Toi_tu_hoc",
     "docs/VLog/sinh-nhat-18-lan-2.md",
@@ -212,20 +237,6 @@
     "IMG_8400.jpeg",
     "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
     "docs/My project/day01.20.09.2024.md",
-    "docs/My project",
-    "docs/VLog/Embed-file-pdf-audio-to-mkdocs 1.md",
-    "docs/Obsidian/nghe-podcast-trong-obsidian.md",
-    "docs/Obsidian/Obsidian-Plugin-tray.md",
-    "docs/VLog/embed-file-pdf-audio-to-mkdocs.md",
-    "stylesheets/extra.css",
-    "stylesheets",
-    "docs/VLog/me.di.um-vuot-rao.md",
-    "docs/BOOK/CHUYEN-NGU-NGON-2.md",
-    "docs/VLog/Mot-ngay-mua-bao.md",
-    "docs/VLog/Mac Lover.md",
-    "docs/BOOK/Building-a-Second-Brain-A-Proven-Method-to-Organize-Your-Digital-Life-and-Unlock-Your-Creative-Potential-Tiago-Forte.pdf",
-    "docs/BOOK/CHUYENNGUNGON-1.pdf",
-    "docs/BOOK/CHUYENNGUNGON1.pdf",
-    "docs/BOOK/-.pdf"
+    "docs/My project"
   ]
 }

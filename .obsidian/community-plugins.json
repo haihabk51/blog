@@ -1,7 +1,5 @@
 [
   "obsidian-imgur-plugin",
-  "table-editor-obsidian",
-  "callout-manager",
   "dataview",
   "file-tree-alternative",
   "meld-encrypt",
@@ -9,8 +7,9 @@
   "settings-search",
   "obsidian-emoji-toolbar",
   "templater-obsidian",
-  "tray",
   "editing-toolbar",
   "recent-files-obsidian",
-  "longform"
+  "longform",
+  "pdf-plus",
+  "google-calendar"
 ]
