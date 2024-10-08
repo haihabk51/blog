@@ -21,10 +21,15 @@ Việc học tập liên tục là cần thiết, nhưng mình có đang đi đ�
 Con người thật là một BẢN THỂ phức tạp. việc học tập mỗi ngày sẽ khiến ta có lúc ồ à, thì ra là vậy.
 
 Cuốn sách này mình chưa đọc, nhưng gợi ý cho mình một điều- Nếu không có gì để viết thì viết gì đây.
+
  Câu hỏi số 1_ Viết để làm gì?
+ 
  Câu hỏi số 2 : viết cho ai?
+ 
  Câu hỏi số 3: Tại sao bạn muốn viết?
+ 
  Câu hỏi số 4: Nếu bạn làm việc này bạn sẽ muốn bạn trở thành người như thế nào?
+ 
  ---
  Trả lời của Hà.
 
