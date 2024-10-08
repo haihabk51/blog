@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
+                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,16 @@
         "id": "c30321645e59d22d",
         "type": "tabs",
         "children": [
+          {
+            "id": "bd82e05673540ad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "d9c6d0813782926f",
             "type": "leaf",
@@ -79,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
+                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,22 +121,12 @@
             }
           },
           {
-            "id": "bd82e05673540ad3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "49ad172ec42118a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
+                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md"
+                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md"
               }
             }
           },
@@ -174,12 +173,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 574.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,16 +194,18 @@
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
   "active": "6dc92e2764a39f5d",
   "lastOpenFiles": [
-    "docs/VLog/Hoc-nhanh-nho-lau.md",
-    "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
+    "docs/BOOK/Tôi Tự học/Học để làm gì.md",
+    "docs/VLog/Thu-Ha-Noi-va-Toi.md",
     "docs/VLog/others/hạnh phúc.md",
     "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
-    "docs/BOOK/Tôi Tự học/Học để làm gì.md",
+    "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
+    "docs/VLog/Hoc-nhanh-nho-lau.md",
     "docs/BOOK/Tôi Tự học/1.md",
     "docs/BOOK/Tôi Tự học/Toituhoc_thugiang_nguyenduycan_pdf.md",
     "docs/Attachment/toi-tu-hoc-thu-giang-nguyen-duy-can.pdf",
@@ -236,7 +236,6 @@
     "docs/VLog/pass.md",
     "docs/Anki/Anki-mot-click-vn-w-15.md",
     "IMG_8400.jpeg",
-    "docs/Obsidian/Obsidian-Khoa-hoc-obsidian-con-ban-den-nang-cao.md",
     "docs/My project"
   ]
 }
