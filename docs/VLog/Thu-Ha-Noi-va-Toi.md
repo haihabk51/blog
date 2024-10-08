@@ -8,7 +8,7 @@ share:
 category:
 ---
 [[2024-10-08]]
-Trời Hà Nội mùa thu thật mát mẻ, những con phố nắng vàng tươi, gió mát ru những cành cay nhẹ nhàng. Cảm giác của mỗi người con sống ở Hà  Nội đều nhẹ nhàng đi. Cảnh tắc đường vẫn như mọi khi nhưng cái nắng nhẹ khiến người ta cũng bình thản, dễ chịu hơn.
+Trời Hà Nội mùa thu thật mát mẻ, những con phố nắng vàng tươi, gió mát ru những cành cây nhẹ nhàng. Cảm giác của mỗi người con sống ở Hà  Nội đều nhẹ nhàng đi. Cảnh tắc đường vẫn như mọi khi nhưng cái nắng nhẹ khiến người ta cũng bình thản, dễ chịu hơn.
 
 Sáng bước chân ra đường, lướt nhẹ trên con phố quen, cảm nhận cái nặng nề của cơ  thể đã lâu rồi MẶC KỆ NÓ. Dường như, là đang xoáy vào vòng xoáy của công việc, gia đình, rồi ta Viện Cớ để mặc kệ một cơ thể thiếu sự chăm sóc- mà theo năm tháng nó càng cần được chăm sóc với cường độ nhiều hơn.
 
