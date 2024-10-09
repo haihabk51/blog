@@ -12,6 +12,9 @@
   "longform",
   "pdf-plus",
   "google-calendar",
-  "dangerzone-writing-plugin",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-projects",
+  "obsidian-word-sprint",
+  "obsidian-kanban",
+  "obsidian-daily-stats"
 ]

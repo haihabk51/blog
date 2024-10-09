@@ -2,12 +2,13 @@
   "dayCounts": {
     "2024/8/6": 458,
     "2024/8/7": 0,
-    "2024/8/8": 11
+    "2024/8/8": 11,
+    "2024/9/9": 388
   },
   "todaysWordCount": {
-    "docs/VLog/Mac Lover.md": {
-      "initial": 17,
-      "current": 28
+    "docs/VLog/Untitled.md": {
+      "initial": 13,
+      "current": 401
     }
   }
 }

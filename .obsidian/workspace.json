@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92f18a706698cb24",
+        "id": "971a58921e8aa736",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc92e2764a39f5d",
+            "id": "13bee4418174fd2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md",
+                "file": "docs/VLog/bao-dung.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md",
+                "file": "docs/VLog/bao-dung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md",
+                "file": "docs/VLog/bao-dung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Thu-Ha-Noi-va-Toi.md"
+                "file": "docs/VLog/bao-dung.md"
               }
             }
           },
@@ -172,12 +172,30 @@
               "type": "google-calendar-view-day",
               "state": {}
             }
+          },
+          {
+            "id": "7726372d8fa96647",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32652ebbe4891183",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 577.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +213,18 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "dangerzone-writing-plugin:Dangerzone Writing": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-word-sprint:Activate Word Sprint Leaf": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6dc92e2764a39f5d",
+  "active": "13bee4418174fd2b",
   "lastOpenFiles": [
-    "docs/BOOK/Tôi Tự học/Học để làm gì.md",
+    "docs/VLog/others/Untitled Kanban.md",
+    "docs/VLog/bao-dung.md",
+    "docs/VLog/others/Untitled.md",
     "docs/VLog/Thu-Ha-Noi-va-Toi.md",
+    "docs/BOOK/Tôi Tự học/Học để làm gì.md",
     "docs/VLog/others/hạnh phúc.md",
     "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
     "docs/VLog/Co-the-ban-lien-quan-gi-toi-uoc-mo.md",
@@ -232,9 +255,6 @@
     "docs/VLog/vun-vat.md",
     "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
     "docs/VLog/Untitled 1.md",
-    "docs/VLog/Bai-Ve.md",
-    "docs/VLog/pass.md",
-    "docs/Anki/Anki-mot-click-vn-w-15.md",
     "IMG_8400.jpeg",
     "docs/My project"
   ]
