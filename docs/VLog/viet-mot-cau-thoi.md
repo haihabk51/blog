@@ -11,7 +11,7 @@ category:
 
 Để viết được sẽ thật khó khăn, khi bạn không phải là một người thường xuyên viết đúng không?
 
-Mình cũng vậy, mỗi sáng thức dậy, giường như là làm mọi công việc theo thói quen, có đôi lúc tôi lên kế hoạch được đâu đó 3 ngày- 1 tuần rồi  sau vài ngày là quên mất luôn đã từng lập kế hoạch. sợ cái não cá vàng của tôi ghê.
+Mình cũng vậy, mỗi sáng thức dậy, ==dường như== là làm mọi công việc theo thói quen, có đôi lúc tôi lên kế hoạch được đâu đó 3 ngày- 1 tuần rồi  sau vài ngày là quên mất luôn đã từng lập kế hoạch. sợ cái não cá vàng của tôi ghê.
 
 Sáng nay, đã chuẩn bị đồ sẵn sàng để trưa đi bơi rồi- ấy mà lại quên luôn. vậy là 1 day I can not do excercise. 
 
