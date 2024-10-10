@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/VLog/viet-mot-cau-thoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:NoneTag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/VLog/viet-mot-cau-thoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/VLog/Untitled.md",
+                "file": "docs/VLog/viet-mot-cau-thoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/VLog/Untitled.md"
+                "file": "docs/VLog/viet-mot-cau-thoi.md"
               }
             }
           },
@@ -221,7 +222,7 @@
   "active": "ecd5b7dbe1b5fc2f",
   "lastOpenFiles": [
     "docs/BOOK/Tôi Tự học/Toituhoc_thugiang_nguyenduycan_pdf.md",
-    "docs/VLog/Untitled.md",
+    "docs/VLog/viet-mot-cau-thoi.md",
     "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
     "docs/BOOK/Tôi Tự học/Học để làm gì.md",
     "docs/VLog/bao-dung.md",

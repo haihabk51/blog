@@ -4,12 +4,16 @@
     "2024/8/7": 0,
     "2024/8/8": 11,
     "2024/9/9": 388,
-    "2024/9/10": 223
+    "2024/9/10": 234
   },
   "todaysWordCount": {
     "docs/VLog/Untitled.md": {
       "initial": 9,
-      "current": 232
+      "current": 243
+    },
+    "docs/VLog/viet-mot-cau-thoi.md": {
+      "initial": 246,
+      "current": 246
     }
   }
 }

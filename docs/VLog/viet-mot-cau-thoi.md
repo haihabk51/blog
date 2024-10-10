@@ -1,10 +1,9 @@
 ---
-title: temp
-aliases:
-  - "{{title}}"
+title: Viết ít nhất 1 câu tiếng anh mỗi ngày
+aliases: 
 tags:
-  - NoneTag
-date: 
+  - daily
+date: 2024-10-10
 share: 
 category:
 ---
