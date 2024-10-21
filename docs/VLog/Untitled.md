@@ -1,6 +1,7 @@
 ---
 title: temp
 aliases:
+  
 tags:
   - NoneTag
 date: 
