@@ -1,3 +1,13 @@
+---
+title: Hướng dẫn dùng Zotero
+aliases: 
+tags:
+  - Zotero
+date: 
+share: 
+category:
+---
+
 # ✔️Những Ưu Điểm
 
  - Có thể dùng syn free. đồng bộ qua nhiều máy.

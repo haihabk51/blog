@@ -17,5 +17,8 @@
   "obsidian-word-sprint",
   "obsidian-kanban",
   "obsidian-daily-stats",
-  "tray"
+  "tray",
+  "daily-statistics",
+  "file-explorer-note-count",
+  "obsidian-charts"
 ]

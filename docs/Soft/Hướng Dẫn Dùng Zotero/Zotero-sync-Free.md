@@ -1,3 +1,13 @@
+---
+title: Zotero sync Free
+aliases: 
+tags:
+  - Zotero
+date: 2024-10-25
+share: 
+category:
+---
+
 #Zotero #Zotero_syn
 
 Link youtube tham khảo: https://www.youtube.com/watch?v=MfFXQ5JYPeA

@@ -1,3 +1,12 @@
+---
+title: Đồng bộ trên zotero
+aliases: 
+tags:
+  - Zotero
+date: 
+share: 
+category:
+---
 
 [00:26](https://www.youtube.com/watch?v=MfFXQ5JYPeA&t=1s#t=26.772129)  ![](https://i.imgur.com/INk0oHC.png)
 
