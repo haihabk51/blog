@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5213323a07ac7cce",
+        "id": "ba05a9668adbcf4d",
         "type": "tabs",
         "children": [
           {
-            "id": "97494df82366e3cf",
+            "id": "50f1ea78a9f3827d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/VLog/others/6.11.2024.md",
+                "file": "docs/VLog/6.11.2024.md",
                 "mode": "source",
                 "source": false
               },
@@ -103,13 +103,11 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "caecb22d1e1a0a3e",
@@ -290,9 +288,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "97494df82366e3cf",
+  "active": "50f1ea78a9f3827d",
   "lastOpenFiles": [
-    "docs/VLog/others/6.11.2024.md",
+    "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
+    "docs/Obsidian/Obsidian-Plugin-tray.md",
+    "docs/Obsidian/Obsidian-quan-ly-du-an.md",
+    "docs/VLog/6.11.2024.md",
     "docs/VLog/Untitled.md",
     "docs/VLog/others/Untitled.md",
     "docs/Obsidian/Chia-doi-man-hinh-soan-thao.md",
@@ -304,7 +305,6 @@
     "docs/Attachment/Tu hoc mot nhu cau cua thoi dai.pdf",
     "docs/Obsidian/nghe-podcast-trong-obsidian.md",
     "template/temp.md",
-    "docs/VLog/6.9..2024-day1-hom-nay-nghi-gi.md",
     "docs/VLog/2024.10.14.md",
     "docs/BOOK/Tôi Tự học/Toituhoc_thugiang_nguyenduycan_pdf.md",
     "docs/BOOK/Tôi Tự học/Hạnh phúc.md",
@@ -320,8 +320,6 @@
     "docs/VLog/Hoc-nhanh-nho-lau.md",
     "docs/BOOK/Tôi Tự học/1.md",
     "docs/Attachment/toi-tu-hoc-thu-giang-nguyen-duy-can.pdf",
-    "docs/BOOK/Tôi Tự học/Index.md",
-    "docs/BOOK/Tự học một nhu cầu thời đại/Tu_hoc_mot_nhu_cau_thoi_dai_Nguyenhienle.md",
     "docs/BOOK/Toi_tu_hoc/Tu_hoc_mot_nhu_cau_thoi_dai_NguyenHienLe",
     "docs/Attachment",
     "docs/BOOK/Tôi Tự học",
